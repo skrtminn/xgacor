@@ -230,7 +230,7 @@
   "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0tzFtGCYbt0aE2bWJGzU6pefFzrKJvFXKD7yXs6hD4B99KHsP45fMN4SPEqU8MSeDL3PwjxlL3FiRGd-X7S1weFrLzTLKDDX9ghxnmR2iM4HgJij01ziG_OLzj3vwR8unnN-s0Yb6XgJzc9TvKn0hHrg5vQwAgfXooiWRIo4uBGWkiwkrEqgMRdbKD7Q/s480/HOKIEMAS-LOGO.gif",
   "contactPoint": {
     "@type": "ContactPoint",
-    "telephone": "+62-812-7780-7250",
+    "telephone": "+62-821-8253-2164",
     "contactType": "customer support",
     "areaServed": "ID",
     "availableLanguage": [
@@ -248,26 +248,26 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Jadi, apa sih sebenarnya HOKIEMAS game slot online itu?",
+      "name": "Apa sebenarnya HOKIEMAS sebagai platform slot online?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "HOKIEMAS adalah salah satu slot online yang lagi gacor versi digital dari mesin slot yang ada di kasino"
+        "text": "HOKIEMAS adalah penyedia slot online premium yang mereplikasi sensasi mesin slot kasino klasik dalam format digital, lengkap dengan elemen gacor untuk keseruan maksimal."
       }
     },
     {
       "@type": "Question",
-      "name": "Di mana bisa login main di HOKIEMAS?",
+      "name": "Bagaimana cara mengakses akun di HOKIEMAS?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Bisa login di link resminya. Link itu biasanya memberikan RTP tertinggi, jadi peluanglebih besar."
+        "text": "Gunakan tautan resmi kami untuk login, yang dirancang khusus agar menawarkan RTP paling kompetitif dan meningkatkan potensi keberhasilan taruhan Anda."
       }
     },
     {
       "@type": "Question",
-      "name": "Benarkah RTP HOKIEMAS tinggi?",
+      "name": "Apakah tingkat RTP HOKIEMAS benar-benar mengesankan?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Iya, berdasarkan laporan hari ini, HOKIEMAS punya tingkat RTP yang tinggi, di atas rata rata  yang artinya sangat menguntungkan untuk pemain."
+        "text": "Sangat benar, menurut pembaruan terbaru, RTP HOKIEMAS melampaui benchmark umum di industri, sehingga menjadikannya pilihan ideal bagi petaruh yang mencari nilai tambah jangka panjang."
       }
     }
   ]
