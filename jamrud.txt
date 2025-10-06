@@ -86,7 +86,7 @@
 
     <meta name="theme-color" content="#333333">
 
-    <link rel="canonical" href="https://mymuslimtours.com/about.html">
+    <link rel="canonical" href="https://mymuslimtours.com/about.php">
 
    <script type="application/ld+json">
 {
@@ -101,10 +101,10 @@
   },
   "sku": "LAWU88SLOT",
   "mpn": "77GCR-001",
-  "url": "https://mymuslimtours.com/about.html",
+  "url": "https://mymuslimtours.com/about.php",
   "offers": {
     "@type": "Offer",
-    "url": "https://mymuslimtours.com/about.html",
+    "url": "https://mymuslimtours.com/about.php",
     "priceCurrency": "USD",
     "price": "0.00",
     "priceValidUntil": "2025-12-31",
@@ -158,49 +158,49 @@
       "@type": "ListItem",
       "position": 1,
       "name": "LAWU88SLOT",
-      "item": "https://mymuslimtours.com/about.html"
+      "item": "https://mymuslimtours.com/about.php"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Slot Online",
-      "item": "https://mymuslimtours.com/about.htmlagen-slot-online"
+      "item": "https://mymuslimtours.com/about.phpagen-slot-online"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Situs Slot",
-      "item": "https://mymuslimtours.com/about.htmlsitus-slot-gacor"
+      "item": "https://mymuslimtours.com/about.phpsitus-slot-gacor"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "Situs Slot Online",
-      "item": "https://mymuslimtours.com/about.htmlsitus-slot-gacor-hari-ini"
+      "item": "https://mymuslimtours.com/about.phpsitus-slot-gacor-hari-ini"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "SLOT MAXWIN",
-      "item": "https://mymuslimtours.com/about.htmllink-slot-gacor"
+      "item": "https://mymuslimtours.com/about.phplink-slot-gacor"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "LAWU88SLOT Daftar",
-      "item": "https://mymuslimtours.com/about.htmlslot-gacor-maxwin"
+      "item": "https://mymuslimtours.com/about.phpslot-gacor-maxwin"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "Slot LAWU88SLOT",
-      "item": "https://mymuslimtours.com/about.htmlslot-online-terpercaya"
+      "item": "https://mymuslimtours.com/about.phpslot-online-terpercaya"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "LAWU88SLOT",
-      "item": "https://mymuslimtours.com/about.htmlsitus-judi-online"
+      "item": "https://mymuslimtours.com/about.phpsitus-judi-online"
     }
   ]
 }
@@ -211,7 +211,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "LAWU88SLOT",
-  "url": "https://mymuslimtours.com/about.html",
+  "url": "https://mymuslimtours.com/about.php",
   "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIs6EFqzycwZJBI6q2r_ihU5_EBvdHH-j8dPsf_MksiKKyWyKv9FyA4b_JyKsNbTn8vwj6yh3YPaqMn-LNpAy7rbJtSgk7J3Nc5LdFIBHqRmh7mLhUEzz04KvS9aBsSkPnyMQz9pGX54BojMoD4I4hveZJwsDVLyi8RVZtQke42KkHP4KLrXuVkmaTgAzC/s400/lawu88slot-logo-gacor-official-000.png",
   "sameAs": [
     "https://www.facebook.com/LAWU88SLOT",
@@ -244,7 +244,7 @@
     <meta property="og:description"
         content="Lawu88Slot menghadirkan inovasi terbaru di dunia slot online dengan permainan gacor resmi yang menawarkan perkalian bombastis hingga x500. Raih jackpot besar hari ini dengan modal kecil di situs slot terpercaya!">
     <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIs6EFqzycwZJBI6q2r_ihU5_EBvdHH-j8dPsf_MksiKKyWyKv9FyA4b_JyKsNbTn8vwj6yh3YPaqMn-LNpAy7rbJtSgk7J3Nc5LdFIBHqRmh7mLhUEzz04KvS9aBsSkPnyMQz9pGX54BojMoD4I4hveZJwsDVLyi8RVZtQke42KkHP4KLrXuVkmaTgAzC/s400/lawu88slot-logo-gacor-official-000.png">
-    <meta property="og:url" content="https://mymuslimtours.com/about.html">
+    <meta property="og:url" content="https://mymuslimtours.com/about.php">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
@@ -254,7 +254,7 @@
     <meta name="twitter:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIs6EFqzycwZJBI6q2r_ihU5_EBvdHH-j8dPsf_MksiKKyWyKv9FyA4b_JyKsNbTn8vwj6yh3YPaqMn-LNpAy7rbJtSgk7J3Nc5LdFIBHqRmh7mLhUEzz04KvS9aBsSkPnyMQz9pGX54BojMoD4I4hveZJwsDVLyi8RVZtQke42KkHP4KLrXuVkmaTgAzC/s400/lawu88slot-logo-gacor-official-000.png">
     <meta property="og:title" content="Lawu88Slot™: Link Slot Online Login Gacor Resmi Dengan Perkalian Bombastis | Slot Hari Ini">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://mymuslimtours.com/about.html">
+    <meta property="og:url" content="https://mymuslimtours.com/about.php">
     <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKGllfg5Hm1L_H91y91vm_BQnbnLzKDhIQ6H_TnGA8Dtb-b2MA6UtT909NfHKftScceJKupvMBlMaltiV2_2HqzirDDgOpU7jXG_tRnhqIEr2492gM16InkTacvtkHQsdUrQszw537860PIYJ8v5AjSTERWzE8aBg7o8pk9ehspW7I31GSucevESLr9gPZ/s1000/lawu88slot-cover-official.png" />
     <meta property="og:description"
         content="Lawu88Slot menghadirkan inovasi terbaru di dunia slot online dengan permainan gacor resmi yang menawarkan perkalian bombastis hingga x500. Raih jackpot besar hari ini dengan modal kecil di situs slot terpercaya!">
@@ -701,7 +701,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://mymuslimtours.com/about.html">Envato Market</a>
+                    <a href="https://mymuslimtours.com/about.php">Envato Market</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -711,36 +711,36 @@
 
                     <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown"
                         data-dropdown-target=".off-canvas-left__sites"
-                        href="https://mymuslimtours.com/about.html"></a>
+                        href="https://mymuslimtours.com/about.php"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="hhttps://mymuslimtours.com/about.html">
+                    <a class="off-canvas-left__site" href="hhttps://mymuslimtours.com/about.php">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://mymuslimtours.com/about.html">
+                    </a> <a class="off-canvas-left__site" href="https://mymuslimtours.com/about.php">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://mymuslimtours.com/about.html">
+                    </a> <a class="off-canvas-left__site" href="https://mymuslimtours.com/about.php">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://mymuslimtours.com/about.html">
+                    </a> <a class="off-canvas-left__site" href="https://mymuslimtours.com/about.php">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://mymuslimtours.com/about.html">
+                    </a> <a class="off-canvas-left__site" href="https://mymuslimtours.com/about.php">
                         <span class="off-canvas-left__site-title">
                             Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://mymuslimtours.com/about.html">
+                    </a> <a class="off-canvas-left__site" href="https://mymuslimtours.com/about.php">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -749,7 +749,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://mymuslimtours.com/about.html" accept-charset="UTF-8"
+                    <form id="search" action="https://mymuslimtours.com/about.php" accept-charset="UTF-8"
                         method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
@@ -768,42 +768,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-all-items"
-                            href="https://mymuslimtours.com/about.html">
+                            href="https://mymuslimtours.com/about.php">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Popular Files</a>
+                                    href="https://mymuslimtours.com/about.php">Popular Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Featured Files</a>
+                                    href="https://mymuslimtours.com/about.php">Featured Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Top New Files</a>
+                                    href="https://mymuslimtours.com/about.php">Top New Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Follow Feed</a>
+                                    href="https://mymuslimtours.com/about.php">Follow Feed</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Top Authors</a>
+                                    href="https://mymuslimtours.com/about.php">Top Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Top New
+                                    href="https://mymuslimtours.com/about.php">Top New
                                     Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Public Collections</a>
+                                    href="https://mymuslimtours.com/about.php">Public Collections</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">View All Categories</a>
+                                    href="https://mymuslimtours.com/about.php">View All Categories</a>
                             </li>
                         </ul>
 
@@ -811,88 +811,88 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-wordpress"
-                            href="https://mymuslimtours.com/about.html">
+                            href="https://mymuslimtours.com/about.php">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Show all
+                                    href="https://mymuslimtours.com/about.php">Show all
                                     WordPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Popular Items</a>
+                                    href="https://mymuslimtours.com/about.php">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Blog /
+                                    href="https://mymuslimtours.com/about.php">Blog /
                                     Magazine</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">BuddyPress</a>
+                                    href="https://mymuslimtours.com/about.php">BuddyPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Corporate</a>
+                                    href="https://mymuslimtours.com/about.php">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Creative</a>
+                                    href="https://mymuslimtours.com/about.php">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Directory &amp; Listings</a>
+                                    href="https://mymuslimtours.com/about.php">Directory &amp; Listings</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">eCommerce</a>
+                                    href="https://mymuslimtours.com/about.php">eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Education</a>
+                                    href="https://mymuslimtours.com/about.php">Education</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Elementor</a>
+                                    href="https://mymuslimtours.com/about.php">Elementor</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Entertainment</a>
+                                    href="https://mymuslimtours.com/about.php">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Mobile</a>
+                                    href="https://mymuslimtours.com/about.php">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Nonprofit</a>
+                                    href="https://mymuslimtours.com/about.php">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Real
+                                    href="https://mymuslimtours.com/about.php">Real
                                     Estate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Retail</a>
+                                    href="https://mymuslimtours.com/about.php">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Technology</a>
+                                    href="https://mymuslimtours.com/about.php">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Wedding</a>
+                                    href="https://mymuslimtours.com/about.php">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Miscellaneous</a>
+                                    href="https://mymuslimtours.com/about.php">Miscellaneous</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">WordPress Plugins</a>
+                                    href="https://mymuslimtours.com/about.php">WordPress Plugins</a>
                             </li>
                         </ul>
 
@@ -900,21 +900,21 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-elementor"
-                            href="https://mymuslimtours.com/about.html">
+                            href="https://mymuslimtours.com/about.php">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Template Kits</a>
+                                    href="https://mymuslimtours.com/about.php">Template Kits</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Plugins</a>
+                                    href="https://mymuslimtours.com/about.php">Plugins</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Themes</a>
+                                    href="https://mymuslimtours.com/about.php">Themes</a>
                             </li>
                         </ul>
 
@@ -922,72 +922,72 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://mymuslimtours.com/about.html">
+                            href="https://mymuslimtours.com/about.php">
                             Hosting
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html"
-                            href="https://mymuslimtours.com/about.html">
+                            href="https://mymuslimtours.com/about.php">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Show all
+                                    href="https://mymuslimtours.com/about.php">Show all
                                     HTML</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Popular Items</a>
+                                    href="https://mymuslimtours.com/about.php">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Admin Templates</a>
+                                    href="https://mymuslimtours.com/about.php">Admin Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Corporate</a>
+                                    href="https://mymuslimtours.com/about.php">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Creative</a>
+                                    href="https://mymuslimtours.com/about.php">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Entertainment</a>
+                                    href="https://mymuslimtours.com/about.php">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Mobile</a>
+                                    href="https://mymuslimtours.com/about.php">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Nonprofit</a>
+                                    href="https://mymuslimtours.com/about.php">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Personal</a>
+                                    href="https://mymuslimtours.com/about.php">Personal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Retail</a>
+                                    href="https://mymuslimtours.com/about.php">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Specialty Pages</a>
+                                    href="https://mymuslimtours.com/about.php">Specialty Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Technology</a>
+                                    href="https://mymuslimtours.com/about.php">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Wedding</a>
+                                    href="https://mymuslimtours.com/about.php">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Miscellaneous</a>
+                                    href="https://mymuslimtours.com/about.php">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -995,42 +995,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-shopify"
-                            href="https://mymuslimtours.com/about.html">
+                            href="https://mymuslimtours.com/about.php">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Show all
+                                    href="https://mymuslimtours.com/about.php">Show all
                                     Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Popular Items</a>
+                                    href="https://mymuslimtours.com/about.php">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Fashion</a>
+                                    href="https://mymuslimtours.com/about.php">Fashion</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Shopping</a>
+                                    href="https://mymuslimtours.com/about.php">Shopping</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Health &amp; Beauty</a>
+                                    href="https://mymuslimtours.com/about.php">Health &amp; Beauty</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Technology</a>
+                                    href="https://mymuslimtours.com/about.php">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Entertainment</a>
+                                    href="https://mymuslimtours.com/about.php">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Miscellaneous</a>
+                                    href="https://mymuslimtours.com/about.php">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1038,91 +1038,91 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://mymuslimtours.com/about.html">
+                            href="https://mymuslimtours.com/about.php">
                             Jamstack
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-marketing"
-                            href="https://mymuslimtours.com/about.html">
+                            href="https://mymuslimtours.com/about.php">
                             Marketing
                         </a>
                         <ul class="is-hidden" id="off-canvas-marketing">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Show all
+                                    href="https://mymuslimtours.com/about.php">Show all
                                     Marketing</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Popular Items</a>
+                                    href="https://mymuslimtours.com/about.php">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Email Templates</a>
+                                    href="https://mymuslimtours.com/about.php">Email Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Landing Pages</a>
+                                    href="https://mymuslimtours.com/about.php">Landing Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Unbounce Landing Pages</a>
+                                    href="https://mymuslimtours.com/about.php">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms"
-                            href="https://mymuslimtours.com/about.html">
+                            href="https://mymuslimtours.com/about.php">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Show all CMS</a>
+                                    href="https://mymuslimtours.com/about.php">Show all CMS</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Popular Items</a>
+                                    href="https://mymuslimtours.com/about.php">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Concrete5</a>
+                                    href="https://mymuslimtours.com/about.php">Concrete5</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Drupal</a>
+                                    href="https://mymuslimtours.com/about.php">Drupal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">HubSpot CMS Hub</a>
+                                    href="https://mymuslimtours.com/about.php">HubSpot CMS Hub</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Joomla</a>
+                                    href="https://mymuslimtours.com/about.php">Joomla</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">MODX
+                                    href="https://mymuslimtours.com/about.php">MODX
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Moodle</a>
+                                    href="https://mymuslimtours.com/about.php">Moodle</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Webflow</a>
+                                    href="https://mymuslimtours.com/about.php">Webflow</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Weebly</a>
+                                    href="https://mymuslimtours.com/about.php">Weebly</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Miscellaneous</a>
+                                    href="https://mymuslimtours.com/about.php">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1130,71 +1130,71 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ecommerce"
-                            href="https://mymuslimtours.com/about.html">
+                            href="https://mymuslimtours.com/about.php">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Show all
+                                    href="https://mymuslimtours.com/about.php">Show all
                                     eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Popular Items</a>
+                                    href="https://mymuslimtours.com/about.php">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">WooCommerce</a>
+                                    href="https://mymuslimtours.com/about.php">WooCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">BigCommerce</a>
+                                    href="https://mymuslimtours.com/about.php">BigCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Drupal Commerce</a>
+                                    href="https://mymuslimtours.com/about.php">Drupal Commerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Easy Digital Downloads</a>
+                                    href="https://mymuslimtours.com/about.php">Easy Digital Downloads</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Ecwid</a>
+                                    href="https://mymuslimtours.com/about.php">Ecwid</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Magento</a>
+                                    href="https://mymuslimtours.com/about.php">Magento</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">OpenCart</a>
+                                    href="https://mymuslimtours.com/about.php">OpenCart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">PrestaShop</a>
+                                    href="https://mymuslimtours.com/about.php">PrestaShop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Shopify</a>
+                                    href="https://mymuslimtours.com/about.php">Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Ubercart</a>
+                                    href="https://mymuslimtours.com/about.php">Ubercart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">VirtueMart</a>
+                                    href="https://mymuslimtours.com/about.php">VirtueMart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Zen
+                                    href="https://mymuslimtours.com/about.php">Zen
                                     Cart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Miscellaneous</a>
+                                    href="https://mymuslimtours.com/about.php">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1202,30 +1202,30 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ui-templates"
-                            href="https://mymuslimtours.com/about.html">
+                            href="https://mymuslimtours.com/about.php">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Popular Items</a>
+                                    href="https://mymuslimtours.com/about.php">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Figma</a>
+                                    href="https://mymuslimtours.com/about.php">Figma</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Adobe
+                                    href="https://mymuslimtours.com/about.php">Adobe
                                     XD</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Photoshop</a>
+                                    href="https://mymuslimtours.com/about.php">Photoshop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Sketch</a>
+                                    href="https://mymuslimtours.com/about.php">Sketch</a>
                             </li>
                         </ul>
 
@@ -1233,56 +1233,56 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://mymuslimtours.com/about.html">
+                            href="https://mymuslimtours.com/about.php">
                             Plugins
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more"
-                            href="https://mymuslimtours.com/about.html">
+                            href="https://mymuslimtours.com/about.php">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Blogging</a>
+                                    href="https://mymuslimtours.com/about.php">Blogging</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Courses</a>
+                                    href="https://mymuslimtours.com/about.php">Courses</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Facebook Templates</a>
+                                    href="https://mymuslimtours.com/about.php">Facebook Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Free Elementor Templates</a>
+                                    href="https://mymuslimtours.com/about.php">Free Elementor Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Free
+                                    href="https://mymuslimtours.com/about.php">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Forums</a>
+                                    href="https://mymuslimtours.com/about.php">Forums</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Ghost
+                                    href="https://mymuslimtours.com/about.php">Ghost
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://mymuslimtours.com/about.html">Tumblr</a>
+                                    href="https://mymuslimtours.com/about.php">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link"
                                     target="_blank"
                                     data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://mymuslimtours.com/about.html">Unlimited
+                                    href="https://mymuslimtours.com/about.php">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1293,7 +1293,7 @@
                         <a class="elements-nav__category-link external-link" target="_blank"
                             data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://mymuslimtours.com/about.html">Unlimited
+                            href="https://mymuslimtours.com/about.php">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1305,7 +1305,7 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://mymuslimtours.com/about.html">
+                <a class="off-canvas-right__link--cart" href="https://mymuslimtours.com/about.php">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1332,7 +1332,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://mymuslimtours.com/about.html">
+                                    <a class="btn btn--square" href="https://mymuslimtours.com/about.php">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14"
                                             class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg"
                                             aria-labelledby="title" role="img">
@@ -1352,7 +1352,7 @@
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right"
-                                        href="https://mymuslimtours.com/about.html">
+                                        href="https://mymuslimtours.com/about.php">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
@@ -1360,14 +1360,14 @@
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left"
-                                        href="https://mymuslimtours.com/about.html">
+                                        href="https://mymuslimtours.com/about.php">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://mymuslimtours.com/about.html">
+                                    <a href="https://mymuslimtours.com/about.php">
                                         <img alt="Logo Baru"
                                             src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIs6EFqzycwZJBI6q2r_ihU5_EBvdHH-j8dPsf_MksiKKyWyKv9FyA4b_JyKsNbTn8vwj6yh3YPaqMn-LNpAy7rbJtSgk7J3Nc5LdFIBHqRmh7mLhUEzz04KvS9aBsSkPnyMQz9pGX54BojMoD4I4hveZJwsDVLyi8RVZtQke42KkHP4KLrXuVkmaTgAzC/s400/lawu88slot-logo-gacor-official-000.png"
                                             style="height:40px; width:auto; display:inline-block;">
@@ -1384,7 +1384,7 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://mymuslimtours.com/about.html">
+                                    <a href="https://mymuslimtours.com/about.php">
                                         <img height="50" alt="Envato Market" class="global-header__logo"
                                             src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIs6EFqzycwZJBI6q2r_ihU5_EBvdHH-j8dPsf_MksiKKyWyKv9FyA4b_JyKsNbTn8vwj6yh3YPaqMn-LNpAy7rbJtSgk7J3Nc5LdFIBHqRmh7mLhUEzz04KvS9aBsSkPnyMQz9pGX54BojMoD4I4hveZJwsDVLyi8RVZtQke42KkHP4KLrXuVkmaTgAzC/s400/lawu88slot-logo-gacor-official-000.png">
                                     </a>
@@ -1392,7 +1392,7 @@
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://mymuslimtours.com/about.html">
+                                                    href="https://mymuslimtours.com/about.php">
                                                     <span class="global-header-menu__link-text">
                                                         LAWU88SLOT
                                                     </span>
@@ -1400,7 +1400,7 @@
                                             </li>
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://mymuslimtours.com/about.html">
+                                                    href="https://mymuslimtours.com/about.php">
                                                     <span class="global-header-menu__link-text">
                                                         LAWU88SLOT Slot
                                                     </span>
@@ -1411,7 +1411,7 @@
                                             <li data-view="globalHeaderMenuDropdownHandler"
                                                 class="global-header-menu__list-item--with-dropdown">
                                                 <a data-lazy-load-trigger="mouseover" class="global-header-menu__link"
-                                                    href="https://mymuslimtours.com/about.html">
+                                                    href="https://mymuslimtours.com/about.php">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon"
                                                         xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
@@ -1429,7 +1429,7 @@
                                                 </a>
                                             <li class="global-header-menu__list-item -background-light -border-radius">
                                                 <a id="spec-link-cart" class="global-header-menu__link h-pr1"
-                                                    href="https://mymuslimtours.com/about.html">
+                                                    href="https://mymuslimtours.com/about.php">
 
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon global-header-menu__icon-cart"
@@ -1451,7 +1451,7 @@
 
                                             <li class="global-header-menu__list-item -background-light -border-radius">
                                                 <a class="global-header-menu__link h-pl1" data-view="modalAjax"
-                                                    href="https://mymuslimtours.com/about.html">
+                                                    href="https://mymuslimtours.com/about.php">
                                                     <span id="spec-user-username" class="global-header-menu__link-text">
                                                         Sign In
                                                     </span>
@@ -1471,31 +1471,31 @@
                                     <nav class="header-site-titles__container">
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link is-active" alt="Web Templates"
-                                                href="https://mymuslimtours.com/about.html">LAWU88SLOT</a>
+                                                href="https://mymuslimtours.com/about.php">LAWU88SLOT</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Code"
-                                                href="https://mymuslimtours.com/about.html">PRAGMATIC PLAY</a>
+                                                href="https://mymuslimtours.com/about.php">PRAGMATIC PLAY</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Video"
-                                                href="https://mymuslimtours.com/about.html">LIVE22</a>
+                                                href="https://mymuslimtours.com/about.php">LIVE22</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Music"
-                                                href="https://mymuslimtours.com/about.html">5G GAMING</a>
+                                                href="https://mymuslimtours.com/about.php">5G GAMING</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Graphics"
-                                                href="https://mymuslimtours.com/about.html">PLAYTECH</a>
+                                                href="https://mymuslimtours.com/about.php">PLAYTECH</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Photos"
-                                                href="https://mymuslimtours.com/about.html">SITUS SLOT</a>
+                                                href="https://mymuslimtours.com/about.php">SITUS SLOT</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="3D Files"
-                                                href="https://mymuslimtours.com/about.html">SITUS SLOT ONLINE</a>
+                                                href="https://mymuslimtours.com/about.php">SITUS SLOT ONLINE</a>
                                         </div>
 
                                         <div class="header-site-titles__site elements-nav__container"
@@ -1573,7 +1573,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-0-dropdown"
-                                                href="https://mymuslimtours.com/about.html">
+                                                href="https://mymuslimtours.com/about.php">
 
                                                 LAWU88SLOT
 
@@ -1582,7 +1582,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-1-dropdown"
-                                                href="https://mymuslimtours.com/about.html">
+                                                href="https://mymuslimtours.com/about.php">
 
                                                 Slot Online
 
@@ -1591,7 +1591,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-2-dropdown"
-                                                href="https://mymuslimtours.com/about.html">
+                                                href="https://mymuslimtours.com/about.php">
 
                                                 Situs Slot
 
@@ -1599,7 +1599,7 @@
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link header-categories__main-link--empty"
-                                                href="https://mymuslimtours.com/about.html">
+                                                href="https://mymuslimtours.com/about.php">
 
                                                 Situs Slot Online
 
@@ -1608,7 +1608,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-4-dropdown"
-                                                href="https://mymuslimtours.com/about.html">
+                                                href="https://mymuslimtours.com/about.php">
 
                                                 SLOT MAXWIN LAWU88SLOT
 
@@ -1617,7 +1617,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-5-dropdown"
-                                                href="https://mymuslimtours.com/about.html">
+                                                href="https://mymuslimtours.com/about.php">
 
                                                 SLOT MAXWIN Online
 
@@ -1625,7 +1625,7 @@
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link header-categories__main-link--empty"
-                                                href="https://mymuslimtours.com/about.html">
+                                                href="https://mymuslimtours.com/about.php">
 
                                                 Slot Online Terpercaya
 
@@ -1634,7 +1634,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-7-dropdown"
-                                                href="https://mymuslimtours.com/about.html">
+                                                href="https://mymuslimtours.com/about.php">
 
                                                 SLOT PERKALIAN TINGGI
 
@@ -1642,7 +1642,7 @@
                                         </li></ul>
                                         <div class="header-categories__search" bis_skin_checked="1">
                                             <form id="search" data-view="searchField"
-                                                action="https://mymuslimtours.com/about.html"
+                                                action="https://mymuslimtours.com/about.php"
                                                 accept-charset="UTF-8" method="get">
                                                 <div class="search-field -border-light h-ml2" bis_skin_checked="1">
                                                     <div class="search-field__input" bis_skin_checked="1">
@@ -1677,14 +1677,14 @@
                             <nav class="breadcrumbs h-text-truncate  ">
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://mymuslimtours.com/about.html">Slot Online</a>
+                                    href="https://mymuslimtours.com/about.php">Slot Online</a>
 
 
-                                <a href="https://mymuslimtours.com/about.html"
+                                <a href="https://mymuslimtours.com/about.php"
                                     class="js-breadcrumb-category">Situs Slot</a>
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://mymuslimtours.com/about.html">Lawu88Slot™: Link Slot Online Login Gacor Resmi Dengan Perkalian Bombastis | Slot Hari Ini</a>
+                                    href="https://mymuslimtours.com/about.php">Lawu88Slot™: Link Slot Online Login Gacor Resmi Dengan Perkalian Bombastis | Slot Hari Ini</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -1700,7 +1700,7 @@
                                     <div class="item-header__price is-hidden-desktop" bis_skin_checked="1">
                                         <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m"
                                             rel="nofollow" title="Add to Cart" data-view="modalAjax"
-                                            href="https://mymuslimtours.com/about.html">
+                                            href="https://mymuslimtours.com/about.php">
                                             <span class="item-header__cart-button-icon">
                                                 <i class="e-icon -icon-cart -margin-right"></i>
                                             </span>
@@ -1715,7 +1715,7 @@
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
                                         By <a rel="author" class="js-by-author"
-                                            href="https://mymuslimtours.com/about.html">LAWU88SLOT</a>
+                                            href="https://mymuslimtours.com/about.php">LAWU88SLOT</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16"
@@ -1755,10 +1755,10 @@
                                 <ul>
                                     <li class="selected"><a
                                             class="js-item-navigation-item-details t-link -decoration-none"
-                                            href="https://mymuslimtours.com/about.html">Item Details</a>
+                                            href="https://mymuslimtours.com/about.php">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none"
-                                            href="https://mymuslimtours.com/about.html"><span>Reviews</span><span>
+                                            href="https://mymuslimtours.com/about.php"><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
                                                     <div class="rating-detailed-small__header" bis_skin_checked="1">
                                                         <div class="rating-detailed-small__stars" bis_skin_checked="1">
@@ -1778,10 +1778,10 @@
                                                 </div>
                                             </span><span class="item-navigation-reviews-comments">1001</span></a></li>
                                     <li><a class="js-item-navigation-comments t-link -decoration-none"
-                                            href="https://mymuslimtours.com/about.html"><span>Comments</span><span
+                                            href="https://mymuslimtours.com/about.php"><span>Comments</span><span
                                                 class="item-navigation-reviews-comments">15,324</span></a></li>
                                     <li><a class="js-item-navigation-support t-link -decoration-none"
-                                            href="https://mymuslimtours.com/about.html">Support</a>
+                                            href="https://mymuslimtours.com/about.php">Support</a>
                                     </li>
                                 </ul>
 
@@ -1880,12 +1880,12 @@
                                 <ul class="right item-bookmarking__left-icons_hidden" data-view="bookmarkStatesLoader">
                                     <li class="js-favorite-widget item-bookmarking__control_icons--favorite"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://mymuslimtours.com/about.html"><span
+                                            href="https://mymuslimtours.com/about.php"><span
                                                 class="item-bookmarking__control--label">Add to Favorites</span></a>
                                     </li>
                                     <li class="js-collection-widget item-bookmarking__control_icons--collection"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://mymuslimtours.com/about.html"><span
+                                            href="https://mymuslimtours.com/about.php"><span
                                                 class="item-bookmarking__control--label">Add to Collection</span></a>
                                     </li>
                                 </ul>
@@ -1916,7 +1916,7 @@
                                             <li class="item-bookmarking__control_icons--favorite">
                                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://mymuslimtours.com/about.html"><span
+                                                        href="https://mymuslimtours.com/about.php"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a>
                                                 </span>
@@ -1925,7 +1925,7 @@
                                             <li class="item-bookmarking__control_icons--collection">
                                                 <span>
                                                     <a title="Add to Collection" data-view="modalAjax"
-                                                        href="https://mymuslimtours.com/about.html">
+                                                        href="https://mymuslimtours.com/about.php">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span>
                                                     </a> </span>
@@ -2044,7 +2044,7 @@
                                             <div class="js-item-description-toggle item-description-toggle"
                                                 bis_skin_checked="1">
                                                 <a class="item-description-toggle__link"
-                                                    href="https://mymuslimtours.com/about.html">
+                                                    href="https://mymuslimtours.com/about.php">
                                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2087,7 +2087,7 @@
                                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
                                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;Lawu88Slot™: Link Slot Online Login Gacor Resmi Dengan Perkalian Bombastis | Slot Hari Ini&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                                    action="https://mymuslimtours.com/about.html"
+                                                    action="https://mymuslimtours.com/about.php"
                                                     accept-charset="UTF-8" method="post">
                                                     <input type="hidden" name="authenticity_token"
                                                         value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ"
@@ -2148,7 +2148,7 @@
                                                                                 <p class="t-body -size-m h-m0">
                                                                                     <a class="t-link -decoration-reversed"
                                                                                         target="_blank"
-                                                                                        href="https://mymuslimtours.com/about.html/licenses/standard">View
+                                                                                        href="https://mymuslimtours.com/about.php/licenses/standard">View
                                                                                         license details</a>
                                                                                 </p>
                                                                             </div>
@@ -2290,7 +2290,7 @@
                                     <div class="t-body -size-s h-text-align-center h-mt2" bis_skin_checked="1">
                                         © All Rights Reserved LAWU88SLOT
                                         <br>
-                                        <a href="https://mymuslimtours.com/about.html">Contact the LAWU88SLOT Help Team</a>
+                                        <a href="https://mymuslimtours.com/about.php">Contact the LAWU88SLOT Help Team</a>
                                     </div>
 
                                 </div>
@@ -2327,11 +2327,11 @@
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://mymuslimtours.com/about.html/hc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
+                                                            href="https://mymuslimtours.com/about.php/hc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://mymuslimtours.com/about.html/licenses">Licenses</a>
+                                                            href="https://mymuslimtours.com/about.php/licenses">Licenses</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2359,7 +2359,7 @@
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://mymuslimtours.com/about.html">Help Center</a>
+                                                            href="https://mymuslimtours.com/about.php">Help Center</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2382,7 +2382,7 @@
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://mymuslimtours.com/about.html">Forums</a>
+                                                            href="https://mymuslimtours.com/about.php">Forums</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2639,7 +2639,7 @@
         </div>
     </div>
     <div id="js-customer-satisfaction-popup" class="survey-popup is-visually-hidden" bis_skin_checked="1">
-        <div class="h-text-align-right" bis_skin_checked="1"><a href="https://mymuslimtours.com/about.html"
+        <div class="h-text-align-right" bis_skin_checked="1"><a href="https://mymuslimtours.com/about.php"
                 id="js-popup-close-button" class="e-alert-box__dismiss-icon"><i class="e-icon -icon-cancel"></i></a>
         </div>
         <div class="survey-popup--section" bis_skin_checked="1">
@@ -2647,7 +2647,7 @@
             <p>We'd like to ask you a few questions to help improve ThemeForest.</p>
         </div>
         <div class="survey-popup--section" bis_skin_checked="1">
-            <a href="https://mymuslimtours.com/about.html" id="js-show-survey-button"
+            <a href="https://mymuslimtours.com/about.php" id="js-show-survey-button"
                 class="e-btn -color-primary -size-m -width-full js-survey-popup--show-survey-button">Sure, take me to
                 the survey</a>
         </div>
@@ -2786,7 +2786,7 @@
         <div class="flyout__link" bis_skin_checked="1">
             <p class="t-body -size-m h-m0">
                 <a class="t-link -decoration-reversed" target="_blank"
-                    href="https://mymuslimtours.com/about.html">View license details</a>
+                    href="https://mymuslimtours.com/about.php">View license details</a>
             </p>
         </div>
     </div><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe><iframe
