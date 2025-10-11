@@ -8,7 +8,7 @@
   <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-800411572&amp;cx=c&amp;gtm=45He57s1v9195929391za200&amp;tag_exp=101509157~103116026~103200004~103233427~104573694~104684208~104684211~105103161~105103163~105124543~105124545" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
   <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-943617023&amp;cx=c&amp;gtm=45He57s1v9195929391za200&amp;tag_exp=101509157~103116026~103200004~103233427~104573694~104684208~104684211~105103161~105103163~105124543~105124545" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
   <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-ZKBVC1X78F&amp;cx=c&amp;gtm=45He57s1v9117991082za200&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~105103161~105103163~105124543~105124545" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <link rel="amphtml" href="https://quiz4dampku.pages.dev/" />
+  <link rel="amphtml" href="https://quiz4dbrand.pages.dev/" />
   <meta charset="utf-8">
   <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
     //<![CDATA[
@@ -1076,9 +1076,9 @@
             <i class="e-icon -icon-cart"></i>
           </div>
         </a>
-        <a class="off-canvas-right__link" href="https://quiz4dampku.pages.dev/"> Create an Envato Account <i class="e-icon -icon-envato"></i>
+        <a class="off-canvas-right__link" href="https://quiz4dbrand.pages.dev/"> Create an Envato Account <i class="e-icon -icon-envato"></i>
         </a>
-        <a class="off-canvas-right__link" href="https://quiz4dampku.pages.dev/"> Sign In <i class="e-icon -icon-login"></i>
+        <a class="off-canvas-right__link" href="https://quiz4dbrand.pages.dev/"> Sign In <i class="e-icon -icon-login"></i>
         </a>
       </div>
     </div>
@@ -1463,7 +1463,7 @@
           </div>
           <div class="box--no-padding" bis_skin_checked="1">
             <div class="item-preview live-preview-btn--blue -preview-live" bis_skin_checked="1">
-              <a target="_blank" href="https://quiz4dampku.pages.dev/"><img alt="QUIZ4D : Slot Garansi Kekalahan 100% Dengan Depo Minimal WD Maksimal - WooCommerce eCommerce" width="300" height="300" srcset="https://blogger.googleusercontent.com/img/a/AVvXsEg8Nk5uPBlCj6jOnFT4ml3R6X4D8ezCmP_qj6ZNo60EsxSUriP-9a0FZybXOjVi_LdKTRelBPVPL3xvxrhweYscDwU_I9t4lnkzmEmw4SFHQjMo0FH-pXhr6lHTbK9EV0Ny23Q_xFVN7K-V0Zv8vbQulELDdLtmyJJs-ZDQJ6E1VkC4_NjHHE3ChgZT" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px" src="https://blogger.googleusercontent.com/img/a/AVvXsEg8Nk5uPBlCj6jOnFT4ml3R6X4D8ezCmP_qj6ZNo60EsxSUriP-9a0FZybXOjVi_LdKTRelBPVPL3xvxrhweYscDwU_I9t4lnkzmEmw4SFHQjMo0FH-pXhr6lHTbK9EV0Ny23Q_xFVN7K-V0Zv8vbQulELDdLtmyJJs-ZDQJ6E1VkC4_NjHHE3ChgZT"></a>
+              <a target="_blank" href="https://quiz4dbrand.pages.dev/"><img alt="QUIZ4D : Slot Garansi Kekalahan 100% Dengan Depo Minimal WD Maksimal - WooCommerce eCommerce" width="300" height="300" srcset="https://blogger.googleusercontent.com/img/a/AVvXsEg8Nk5uPBlCj6jOnFT4ml3R6X4D8ezCmP_qj6ZNo60EsxSUriP-9a0FZybXOjVi_LdKTRelBPVPL3xvxrhweYscDwU_I9t4lnkzmEmw4SFHQjMo0FH-pXhr6lHTbK9EV0Ny23Q_xFVN7K-V0Zv8vbQulELDdLtmyJJs-ZDQJ6E1VkC4_NjHHE3ChgZT" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px" src="https://blogger.googleusercontent.com/img/a/AVvXsEg8Nk5uPBlCj6jOnFT4ml3R6X4D8ezCmP_qj6ZNo60EsxSUriP-9a0FZybXOjVi_LdKTRelBPVPL3xvxrhweYscDwU_I9t4lnkzmEmw4SFHQjMo0FH-pXhr6lHTbK9EV0Ny23Q_xFVN7K-V0Zv8vbQulELDdLtmyJJs-ZDQJ6E1VkC4_NjHHE3ChgZT"></a>
               <div class="js- item-preview-image__gallery" data-title="QUIZ4D : Slot Garansi Kekalahan 100% Dengan Depo Minimal WD Maksimal - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg">MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg</a>
                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/01_marketica2_homepage.png">MARKETICA_PREVIEW/01_marketica2_homepage.png</a>
@@ -1498,8 +1498,8 @@
               </div>
               <div class="item-preview__actions" bis_skin_checked="1">
                 <div id="fullscreen" class="item-preview__preview-buttons" bis_skin_checked="1">
-                  <a href="https://quiz4dampku.pages.dev/" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow"> LOGIN </a>
-                  <a data-view="screenshotGallery" href="https://quiz4dampku.pages.dev/" role="button" class="btn-icon screenshots" target="_blank" rel="noopener"> DAFTAR </a>
+                  <a href="https://quiz4dbrand.pages.dev/" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow"> LOGIN </a>
+                  <a data-view="screenshotGallery" href="https://quiz4dbrand.pages.dev/" role="button" class="btn-icon screenshots" target="_blank" rel="noopener"> DAFTAR </a>
                 </div>
               </div>
             </div>
