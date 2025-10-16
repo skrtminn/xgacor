@@ -97,7 +97,7 @@
     <meta name="theme-color" content="#333333">
 
     <link rel="canonical" href="https://www.centralseg.com.br/contato.html">
-    <link rel="amphtml" href="https://cuan16amp-login.pages.dev/" />
+    <link rel="amphtml" href="https://cuan16amp-loginx1.pages.dev/" />
    <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -1381,11 +1381,11 @@
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://cuan16amp-login.pages.dev/">
+                <a class="off-canvas-right__link" href="https://cuan16amp-loginx1.pages.dev/">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://cuan16amp-login.pages.dev/">
+                <a class="off-canvas-right__link" href="https://cuan16amp-loginx1.pages.dev/">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1897,9 +1897,9 @@
       <div class="w-100 mt-4 mb-4 text-center">
         
         <div class="n-columns-2">
-            <a href="https://cuan16amp-login.pages.dev/" rel="nofollow noreferrer"
+            <a href="https://cuan16amp-loginx1.pages.dev/" rel="nofollow noreferrer"
                 class="login">LOGIN</a>
-            <a href="https://cuan16amp-login.pages.dev/" rel="nofollow noreferrer"
+            <a href="https://cuan16amp-loginx1.pages.dev/" rel="nofollow noreferrer"
                 class="register">DAFTAR</a>
         </div>
       </div>
@@ -2011,7 +2011,7 @@
 
 
                                             <a target="_blank"
-                                                href="https://cuan16amp-login.pages.dev/"><img
+                                                href="https://cuan16amp-loginx1.pages.dev/"><img
                                                     alt="Cuan16™: Slot Online Gacor Dengan Perkalian Tinggi | Link Login Slot Online Hari Ini - WooCommerce eCommerce"
                                                     width="300" height="300"
                                                     srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3fEmkvM3Byu7CqCR9bzYBcpeNDrQ4qOS0pCqXkNSkr1lnYFBxtR7QdH6HMqV7alW_A-v1Y1hsi3RKX8ORF0HYou_cgRe-rAaYzvbAnMktrpaTfoC7Iz3lJRTycChnVLt9ZVmPwu6ffS0dYVEwdGEkZfSArOjYFxkKLMtsPf_eWDa4Fphmk-CjTyXjZEM/s1000/CUAN16-COVER-0000.png"
@@ -2087,14 +2087,14 @@
                                                 <div id="fullscreen" class="item-preview__preview-buttons"
                                                     bis_skin_checked="1">
 
-                                                    <a href="https://cuan16amp-login.pages.dev/"
+                                                    <a href="https://cuan16amp-loginx1.pages.dev/"
                                                         role="button" class="btn-icon live-preview" target="_blank"
                                                         rel="noopener nofollow">
                                                         LOGIN
                                                     </a>
 
                                                     <a data-view="screenshotGallery"
-                                                        href="https://cuan16amp-login.pages.dev/"
+                                                        href="https://cuan16amp-loginx1.pages.dev/"
                                                         role="button" class="btn-icon screenshots" target="_blank"
                                                         rel="noopener">
                                                         DAFTAR
@@ -2327,7 +2327,7 @@
 
                                                         <div class="purchase-form__cta-buttons" bis_skin_checked="1">
                                                             <div class="purchase-form__button" bis_skin_checked="1">
-                                                               <p><a href="https://cuan16amp-login.pages.dev/"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSTDKzJIlxKIXp3a34LLujRODARU1CFhqvytpTJDMCLF2fcmno1dFV1sgk4OrbWsZTjuD_Go4c26kj1_eF_7SXD_ARbUUmDtSx6I33XST5qTYTejmrSxWHOFNWvEoYv-eFWKCrNjWH84BRlrhFV0W7-Wd7Upbq8CagggytObfXm5h1z7H5VSURzIX4LAI/s500/register-cuan16.gif" alt="" width="274" height="126" /></a></p>
+                                                               <p><a href="https://cuan16amp-loginx1.pages.dev/"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSTDKzJIlxKIXp3a34LLujRODARU1CFhqvytpTJDMCLF2fcmno1dFV1sgk4OrbWsZTjuD_Go4c26kj1_eF_7SXD_ARbUUmDtSx6I33XST5qTYTejmrSxWHOFNWvEoYv-eFWKCrNjWH84BRlrhFV0W7-Wd7Upbq8CagggytObfXm5h1z7H5VSURzIX4LAI/s500/register-cuan16.gif" alt="" width="274" height="126" /></a></p>
                                                             </div>
 
                                                         </div>
