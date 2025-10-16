@@ -8,7 +8,7 @@
 
 <script type="178993bd360a01f880ed73ed-text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
 <script type="178993bd360a01f880ed73ed-text/javascript" async="" src="https://s.pinimg.com/ct/core.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-<link rel="amphtml" href="https://hokiemaslinkutama.pages.dev/" />
+<link rel="amphtml" href="https://hokiemaslinkutamax1.pages.dev/" />
     <meta charset="utf-8">
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==" type="178993bd360a01f880ed73ed-text/javascript">
         //<![CDATA[
@@ -1303,11 +1303,11 @@
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://hokiemaslinkutama.pages.dev/">
+                <a class="off-canvas-right__link" href="https://hokiemaslinkutamax1.pages.dev/">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://hokiemaslinkutama.pages.dev/">
+                <a class="off-canvas-right__link" href="https://hokiemaslinkutamax1.pages.dev/">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1819,9 +1819,9 @@
       <div class="w-100 mt-4 mb-4 text-center">
         
         <div class="n-columns-2">
-            <a href="https://hokiemaslinkutama.pages.dev/" rel="nofollow noreferrer"
+            <a href="https://hokiemaslinkutamax1.pages.dev/" rel="nofollow noreferrer"
                 class="login">LOGIN</a>
-            <a href="https://hokiemaslinkutama.pages.dev/" rel="nofollow noreferrer"
+            <a href="https://hokiemaslinkutamax1.pages.dev/" rel="nofollow noreferrer"
                 class="register">DAFTAR</a>
         </div>
       </div>
@@ -1933,7 +1933,7 @@
 
 
                                             <a target="_blank"
-                                                href="https://hokiemaslinkutama.pages.dev/"><img
+                                                href="https://hokiemaslinkutamax1.pages.dev/"><img
                                                     alt="Hokiemas: Link Login Situs Bandar Slot Online Gacor & Togel Paling Hoki Hari Ini - WooCommerce eCommerce"
                                                     width="300" height="300"
                                                     srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-SYt1TNfAFCsgTldoDKS6RDuEnCp8xIoCLco8Z0dHlUGOOVh7r93Rxfgm-W0okflr7WyFVhWrh_dNWaiFqBxIGq71CupNYLm_FbbBE5lLdnbd_uPXxo1HCNehOjs2LrAeCP0ygk6jktEliUsqJi51_7a41efYoVLxaKyznA6mNppbxndejX5AYj8ckeQ/s1000/HOKIEMAS-COVER-000CARTI.png"
@@ -2009,14 +2009,14 @@
                                                 <div id="fullscreen" class="item-preview__preview-buttons"
                                                     bis_skin_checked="1">
 
-                                                    <a href="https://hokiemaslinkutama.pages.dev/"
+                                                    <a href="https://hokiemaslinkutamax1.pages.dev/"
                                                         role="button" class="btn-icon live-preview" target="_blank"
                                                         rel="noopener nofollow">
                                                         LOGIN
                                                     </a>
 
                                                     <a data-view="screenshotGallery"
-                                                        href="https://hokiemaslinkutama.pages.dev/"
+                                                        href="https://hokiemaslinkutamax1.pages.dev/"
                                                         role="button" class="btn-icon screenshots" target="_blank"
                                                         rel="noopener">
                                                         DAFTAR
@@ -2249,7 +2249,7 @@
 
                                                         <div class="purchase-form__cta-buttons" bis_skin_checked="1">
                                                             <div class="purchase-form__button" bis_skin_checked="1">
-                                                               <p><a href="https://hokiemaslinkutama.pages.dev/"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlgba_-RvWXL16Hc5QH3R875dSqwilxN34i8iMmzSizaIUD23d-SUTpvUbmAhqjHs2YS7rcDfWM_iiNXjrUQsYe5G7VSUhq3-eBbJRpKRHE4eD6Llh8_aF9JyQdNdOaFcolDkNbptC5JDT-MgXcDARMCtfN-OcbfWWj262njurLokLUNr5tzrQN8XDrcs/s480/hokiemas-login-logo.gif" alt="" width="274" height="126" /></a></p>
+                                                               <p><a href="https://hokiemaslinkutamax1.pages.dev/"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlgba_-RvWXL16Hc5QH3R875dSqwilxN34i8iMmzSizaIUD23d-SUTpvUbmAhqjHs2YS7rcDfWM_iiNXjrUQsYe5G7VSUhq3-eBbJRpKRHE4eD6Llh8_aF9JyQdNdOaFcolDkNbptC5JDT-MgXcDARMCtfN-OcbfWWj262njurLokLUNr5tzrQN8XDrcs/s480/hokiemas-login-logo.gif" alt="" width="274" height="126" /></a></p>
                                                             </div>
 
                                                         </div>
