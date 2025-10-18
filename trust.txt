@@ -2,7 +2,7 @@
 <html class="js audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a cors cssanimations backgroundblendmode flexbox inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color localstorage placeholder svg xhr2 audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a cors cssanimations backgroundblendmode flexbox inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color localstorage placeholder svg xhr2 audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a cors cssanimations backgroundblendmode flexbox inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color localstorage placeholder svg xhr2" lang="en"><head>
 <script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-800411572&amp;cx=c&amp;gtm=4e59a1" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-943617023&amp;cx=c&amp;gtm=4e59a1" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script><script async="" src="https://s.pinimg.com/ct/lib/main.817db39b.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KGCDGPL6"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W8KL5Q5"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-9Z72VQCKY0&amp;cx=c&amp;gtm=4e5931" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script><script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-953691586&amp;cx=c&amp;gtm=4e5931" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KGCDGPL6"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W8KL5Q5"></script><script async="" src="https://s.pinimg.com/ct/lib/main.817db39b.js"></script><script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
 <script type="text/javascript" async="" src="https://s.pinimg.com/ct/core.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-<link rel="amphtml" href="https://amara16-login.pages.dev/" />
+<link rel="amphtml" href="https://amara16x1-login.pages.dev/" />
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
         //<![CDATA[
         window.DATADOG_CONFIG = {
@@ -2615,7 +2615,7 @@
 
 
                                             <a target="_blank"
-                                                href="https://amara16-login.pages.dev/"><img
+                                                href="https://amara16x1-login.pages.dev/"><img
                                                     alt="AMARA16™: Link Slot Gacor Resmi Dengan Bonus Melimpah Gampang WD - WooCommerce eCommerce"
                                                     width="300" height="300"
                                                     srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt9OixcVohbZhuIONGs1qeXqMe9G8mgaTc16PXvSPgfr7goqG6krImGS39LKOW6VOw_KnfUZ-vakgqtzaXHhWgS84Di4tNWAk9_iV44Slb9mpmPtB6bfa4ValQd3BljtyUlYZlpNCSQ2LB1-2xJHm7TRs3z39_UYjDrFL-NiB9OB9A_FFnKxoPEF6YrZQ/s1000/amara16-cover.png"
@@ -2691,14 +2691,14 @@
                                                 <div id="fullscreen" class="item-preview__preview-buttons"
                                                     >
 
-                                                    <a href="https://amara16-login.pages.dev/"
+                                                    <a href="https://amara16x1-login.pages.dev/"
                                                         role="button" class="btn-icon live-preview" target="_blank"
                                                         rel="noopener nofollow">
                                                         LOGIN
                                                     </a>
 
                                                     <a data-view="screenshotGallery"
-                                                        href="https://amara16-login.pages.dev/"
+                                                        href="https://amara16x1-login.pages.dev/"
                                                         role="button" class="btn-icon screenshots" target="_blank"
                                                         rel="noopener">
                                                         DAFTAR
