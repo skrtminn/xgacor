@@ -1796,13 +1796,13 @@ if (clientloggerIsEnabled) {
 </div>
     
     <div class="wt-text-caption wt-text-center-xs wt-text-left-lg">
-        <a href="https://www.plan.com.br/galeria-de-projetos/">SLOT DEPOSIT 10K</a>
+        <a href="https://www.plan.com.br/galeria-de-projetos/">SLOT DEPO 10RB</a>
             <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
         <a href="https://www.plan.com.br/galeria-de-projetos/">DAFTAR QUIZ4D</a>
             <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
-        <a href="https://www.plan.com.br/galeria-de-projetos/">AGEN SLOT</a>
+        <a href="https://www.plan.com.br/galeria-de-projetos/">BANDAR SLOT</a>
             <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
-        <a href="https://www.plan.com.br/galeria-de-projetos/">SLOT QRIS</a>
+        <a href="https://www.plan.com.br/galeria-de-projetos/">SLOT ONLINE GACOR</a>
 </div>
     
     <div id="google-one-tap-modal-div" class="google-one-tap-modal-div">
