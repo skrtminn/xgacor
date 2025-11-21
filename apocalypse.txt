@@ -10,7 +10,7 @@
 <link rel="icon" type="image/x-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXhaR7CSF22iUvyT2lYZdGxegRsNeFhX32caOvuBzmqxqP79zYRwugCNxSysp40zyyJfc6LDo-MTGo_-UXGa2JOWEqsaJ8cvWcU2f_qzM7VdLV2QOKWCWfQsBA1F-7dT8ERjJUgo3nKHkm37RAXtj_qbNvYTba75-vvlN5wltl57uFmNzjbefuFVtmjBtX/s100/lawu88slot-favicon-1150447408.png" />
 <link rel="apple-touch-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXhaR7CSF22iUvyT2lYZdGxegRsNeFhX32caOvuBzmqxqP79zYRwugCNxSysp40zyyJfc6LDo-MTGo_-UXGa2JOWEqsaJ8cvWcU2f_qzM7VdLV2QOKWCWfQsBA1F-7dT8ERjJUgo3nKHkm37RAXtj_qbNvYTba75-vvlN5wltl57uFmNzjbefuFVtmjBtX/s100/lawu88slot-favicon-1150447408.png">
 <link rel="canonical" href="https://www.centralseg.com.br/web/politica-de-privacidade/">
-<link rel="amphtml" href="https://lawu88slotresmi-amp.pages.dev/" />
+<link rel="amphtml" href="https://lawu88slotresmi-ampx1.pages.dev/" />
 <link as='image' href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih3_IfKXIvh1yacJWkT1_o5K1uh0oiNhACqFdsjS8AxPfF1OKnFokA7ME_ymv41MIOsXuX-LGV20tV62Exaok_x0LJRT85wHepwLxDPIq6K-20VJAl9tB1qtkyQv7WsR08gd3i5CFU0MK4T-dLRahpzy9KUfpNJsj3Ne1I5NUHO_Xxy8jZ8Ce2Tc9ql2a4/s1000/lawu88slot-server-thailand-154504515041.png' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -639,8 +639,8 @@ Back
 <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
 <div class='m-cart-config__select-label'>
 </div>
-<a href="https://lawu88slotresmi-amp.pages.dev/" class="btn-x">DAFTAR DISINI</a>
-<a href="https://lawu88slotresmi-amp.pages.dev/" class="btn-x">LOGIN DISINI</a>
+<a href="https://lawu88slotresmi-ampx1.pages.dev/" class="btn-x">DAFTAR DISINI</a>
+<a href="https://lawu88slotresmi-ampx1.pages.dev/" class="btn-x">LOGIN DISINI</a>
 
 <style>
 .btn-x{
