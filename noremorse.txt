@@ -16605,7 +16605,7 @@
                                 <div class="site-header__logo h1" itemscope itemtype="http://schema.org/Organization"><a
                                         href="/" itemprop="url" class="site-header__logo-link">
                                         <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj94kSGt7yxKgMknS6WsailitWtdOG8e8LWgldJ3FHHif58dZezIQduMdigbPLfRR-8pBlTa6R2TXSnXVHcCuvWpUiZj1X8iCkQnrxLdjQ-AY2nxCyo2VMt77kDd3EIz7F5GdFoUO1xVLeQg9ETHdUGoen0nLx5f2Ufe0dicSQyfKGpaSjPV2_84M15DnE"
-                                            srcset="https://blogger.googleusercontent.com/img/a/AVvXsEj94kSGt7yxKgMknS6WsailitWtdOG8e8LWgldJ3FHHif58dZezIQduMdigbPLfRR-8pBlTa6R2TXSnXVHcCuvWpUiZj1X8iCkQnrxLdjQ-AY2nxCyo2VMt77kDd3EIz7F5GdFoUO1xVLeQg9ETHdUGoen0nLx5f2Ufe0dicSQyfKGpaSjPV2_84M15DnE 1x, //kilat.digital/images/2024/12/31/4bbac8477fb7cd072991a686d75987db.png?v=1718636087 2x"
+                                            srcset="https://blogger.googleusercontent.com/img/a/AVvXsEj94kSGt7yxKgMknS6WsailitWtdOG8e8LWgldJ3FHHif58dZezIQduMdigbPLfRR-8pBlTa6R2TXSnXVHcCuvWpUiZj1X8iCkQnrxLdjQ-AY2nxCyo2VMt77kDd3EIz7F5GdFoUO1xVLeQg9ETHdUGoen0nLx5f2Ufe0dicSQyfKGpaSjPV2_84M15DnE 1x, //https://blogger.googleusercontent.com/img/a/AVvXsEj94kSGt7yxKgMknS6WsailitWtdOG8e8LWgldJ3FHHif58dZezIQduMdigbPLfRR-8pBlTa6R2TXSnXVHcCuvWpUiZj1X8iCkQnrxLdjQ-AY2nxCyo2VMt77kDd3EIz7F5GdFoUO1xVLeQg9ETHdUGoen0nLx5f2Ufe0dicSQyfKGpaSjPV2_84M15DnE?v=1718636087 2x"
                                             alt="NETIZEN303" itemprop="logo">
                                     </a>
                                 </div>
@@ -16830,7 +16830,7 @@
                                         </div>
                                     </li>
                                     <li class="site-nav__item">
-                                        <a href="https://kilat.dev/csalexis" class="site-nav__link">
+                                        <a href="https://slotmaxwintercepatx21.pages.dev/" class="site-nav__link">
                                             <span class="site-nav__title">E-Lottery</span></a>
                                     </li>
                                     <li class="site-nav__item site-nav__item-normal ">
@@ -16865,7 +16865,7 @@
                                         </div>
                                     </li>
                                     <li class="site-nav__item">
-                                        <a href="https://kilat.dev/csalexis" class="site-nav__link">
+                                        <a href="https://slotmaxwintercepatx21.pages.dev/" class="site-nav__link">
                                             <span class="site-nav__title">Customer Service</span></a>
                                     </li>
                                     <li class="site-nav__item site-nav__item-normal ">
@@ -16876,20 +16876,21 @@
                                                 <div class="meganav__list">
                                                     <li
                                                         class="site-nav__dropdown-container site-nav__dropdown-container--second-level">
-                                                        <a href="https://kilat.dev/rtpalexis" class="meganav__link ">
+                                                        <a href="https://slotmaxwintercepatx21.pages.dev/"
+                                                            class="meganav__link ">
                                                             RTP Slot
                                                         </a>
                                                     </li>
                                                     <li
                                                         class="site-nav__dropdown-container site-nav__dropdown-container--second-level">
-                                                        <a href="https://kilat.dev/prediksialexis"
+                                                        <a href="https://slotmaxwintercepatx21.pages.dev/"
                                                             class="meganav__link ">
                                                             Prediksi Togel
                                                         </a>
                                                     </li>
                                                     <li
                                                         class="site-nav__dropdown-container site-nav__dropdown-container--second-level">
-                                                        <a href="https://kilat.dev/buktijpalexis"
+                                                        <a href="https://slotmaxwintercepatx21.pages.dev/"
                                                             class="meganav__link ">
                                                             Bukti Jackpot
                                                         </a>
@@ -17201,8 +17202,8 @@
                                         </span>
                                         <div class="social-sharing row ">
                                             <div class="col">
-                                                <a target="_blank" href="https://kilat.dev/csalexis" data-tooltip="true"
-                                                    class="social-sharing__link share-facebook"
+                                                <a target="_blank" href="https://slotmaxwintercepatx21.pages.dev/"
+                                                    data-tooltip="true" class="social-sharing__link share-facebook"
                                                     title="Share on Facebook">
                                                     <svg style="width:24px;height:24px;" viewBox="0 0 24 24" fill="none"
                                                         xmlns="http://www.w3.org/2000/svg">
@@ -17212,8 +17213,9 @@
                                                     </svg>
                                                     <span class="share-title visually-hidden">Share on Facebook</span>
                                                 </a>
-                                                <a target="_blank" href="https://kilat.dev/csalexis" data-tooltip="true"
-                                                    class="social-sharing__link share-twitter" title="Tweet on Twitter">
+                                                <a target="_blank" href="https://slotmaxwintercepatx21.pages.dev/"
+                                                    data-tooltip="true" class="social-sharing__link share-twitter"
+                                                    title="Tweet on Twitter">
                                                     <svg style="width:24px;height:24px;" viewBox="0 0 24 24" fill="none"
                                                         xmlns="http://www.w3.org/2000/svg">
                                                         <path
@@ -17222,7 +17224,8 @@
                                                     </svg>
                                                     <span class="share-title visually-hidden">Tweet on Twitter</span>
                                                 </a>
-                                                <a data-tooltip="true" target="_blank" href="https://kilat.dev/csalexis"
+                                                <a data-tooltip="true" target="_blank"
+                                                    href="https://slotmaxwintercepatx21.pages.dev/"
                                                     class="social-sharing__link share-pinterest"
                                                     title="Pin on Pinterest">
                                                     <i class="icon-pinterest"></i>
