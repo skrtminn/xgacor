@@ -4353,7 +4353,8 @@
           <div class="recently-viewed-product" data-prodid="135702" data-listid="recently-viewed-carousel">
             <div class="product-image loading">
               <img class="lazyload" data-effect="fadeIn" src="https://microless.com/cdn/pixel-paceholder-1x1.png"
-                data-src="https://jipp.org/pictures/g1.webp" alt="HOT GAME 16" />
+                data-src="https://blogger.googleusercontent.com/img/a/AVvXsEgZe_a0NVAX827fO7mYuRuSsWVGv_EsmRLkmV6vJtVo6ahXDGdD4wEuyxpTXTx-0Mn2mEnKAkti6MO3yI3vP_9_MeBqOpOmoyCwzggj_YzHV12dWwjcFmMYwTEwSTIgT44LxKpahPfIrs16Mg5ZYzCQxnrMc-PJED0Wast90Bw1hv62tvLL_YH7I22BrfY"
+                alt="HOT GAME 16" />
             </div>
           </div>
         </a>
@@ -4363,7 +4364,8 @@
           <div class="recently-viewed-product" data-prodid="242914" data-listid="recently-viewed-carousel">
             <div class="product-image loading">
               <img class="lazyload" data-effect="fadeIn" src="https://microless.com/cdn/pixel-paceholder-1x1.png"
-                data-src="https://jipp.org/pictures/g2.webp" alt="HOT GAME 15" />
+                data-src="https://blogger.googleusercontent.com/img/a/AVvXsEhETVE_lX3oL4VDWnNuwZBQXu4MGpYvzqfZM-5T5jTRbpXEbkxfJqnffLkFqislDeMZKeQYMM9x3WzLzUCBMmKFgIvobQA8S6oVlK7MWJwY3LX2lp0p8teqqK5bYqyqT0TXXodrEakcCg51jqwniaEsnm58uY5KUZ2oIygIWkInm_L_NkM8BrfiiHtq63Q"
+                alt="HOT GAME 15" />
             </div>
           </div>
         </a>
@@ -4371,7 +4373,8 @@
           <div class="recently-viewed-product" data-prodid="242914" data-listid="recently-viewed-carousel">
             <div class="product-image">
               <img class="lazyload" data-effect="fadeIn" src="https://microless.com/cdn/pixel-paceholder-1x1.png"
-                data-src="https://jipp.org/pictures/g3.webp" alt="HOT GAME 14" />
+                data-src="https://blogger.googleusercontent.com/img/a/AVvXsEjdZ1B_HFabPw2IoNfXAaGAtubLJe8NlTKn4UKBujSdvFrRwpERyfo6Z7CqWXUaEhIoPmiRchHEZ2cC9a2qIaGypGqFIP8DDBJvpI61NXSR-giOxnXV04Ox05tQEWt7wdXJ2OVFb6v__O3RGzikbOb9jxYqtXQ5O8gZmY6lRWMQpRG2nlaC6p6tlIhAFig"
+                alt="HOT GAME 14" />
             </div>
           </div>
         </a>
@@ -4379,7 +4382,8 @@
           <div class="recently-viewed-product" data-prodid="242914" data-listid="recently-viewed-carousel">
             <div class="product-image">
               <img class="lazyload" data-effect="fadeIn" src="https://microless.com/cdn/pixel-paceholder-1x1.png"
-                data-src="https://jipp.org/pictures/g4.webp" alt="HOT GAME 13" />
+                data-src="https://blogger.googleusercontent.com/img/a/AVvXsEhhh2a586CPdLY95NA1bnve7jdKenGx0PGfhE9pj3YhKCLZNuzYlYfg4UCB9b3b8GEP0GxtehYJ6iIYV1Wpv-lJ6tHihEzpBPa-SselRcR8cHkrSM47dTejrL5UGVBCUMF_NpGroIeosPOQE8Y2E5p4BaxOGgxtGhQg6o538Mjl3E7sbNeesnos7EP-6PA"
+                alt="HOT GAME 13" />
             </div>
           </div>
         </a>
@@ -4395,7 +4399,8 @@
           <div class="recently-viewed-product" data-prodid="242914" data-listid="recently-viewed-carousel">
             <div class="product-image">
               <img class="lazyload" data-effect="fadeIn" src="https://microless.com/cdn/pixel-paceholder-1x1.png"
-                data-src="https://jipp.org/pictures/g1.webp" alt="HOT GAME 10" />
+                data-src="https://blogger.googleusercontent.com/img/a/AVvXsEgZe_a0NVAX827fO7mYuRuSsWVGv_EsmRLkmV6vJtVo6ahXDGdD4wEuyxpTXTx-0Mn2mEnKAkti6MO3yI3vP_9_MeBqOpOmoyCwzggj_YzHV12dWwjcFmMYwTEwSTIgT44LxKpahPfIrs16Mg5ZYzCQxnrMc-PJED0Wast90Bw1hv62tvLL_YH7I22BrfY"
+                alt="HOT GAME 10" />
             </div>
           </div>
         </a>
@@ -4403,7 +4408,8 @@
           <div class="recently-viewed-product" data-prodid="242914" data-listid="recently-viewed-carousel">
             <div class="product-image">
               <img class="lazyload" data-effect="fadeIn" src="https://microless.com/cdn/pixel-paceholder-1x1.png"
-                data-src="https://jipp.org/pictures/g2.webp" alt="HOT GAME 9" />
+                data-src="https://blogger.googleusercontent.com/img/a/AVvXsEhETVE_lX3oL4VDWnNuwZBQXu4MGpYvzqfZM-5T5jTRbpXEbkxfJqnffLkFqislDeMZKeQYMM9x3WzLzUCBMmKFgIvobQA8S6oVlK7MWJwY3LX2lp0p8teqqK5bYqyqT0TXXodrEakcCg51jqwniaEsnm58uY5KUZ2oIygIWkInm_L_NkM8BrfiiHtq63Q"
+                alt="HOT GAME 9" />
             </div>
           </div>
         </a>
@@ -4411,7 +4417,8 @@
           <div class="recently-viewed-product" data-prodid="242914" data-listid="recently-viewed-carousel">
             <div class="product-image">
               <img class="lazyload" data-effect="fadeIn" src="https://microless.com/cdn/pixel-paceholder-1x1.png"
-                data-src="https://jipp.org/pictures/g3.webp" alt="HOT GAME 8" />
+                data-src="https://blogger.googleusercontent.com/img/a/AVvXsEjdZ1B_HFabPw2IoNfXAaGAtubLJe8NlTKn4UKBujSdvFrRwpERyfo6Z7CqWXUaEhIoPmiRchHEZ2cC9a2qIaGypGqFIP8DDBJvpI61NXSR-giOxnXV04Ox05tQEWt7wdXJ2OVFb6v__O3RGzikbOb9jxYqtXQ5O8gZmY6lRWMQpRG2nlaC6p6tlIhAFig"
+                alt="HOT GAME 8" />
             </div>
           </div>
         </a>
@@ -4419,7 +4426,8 @@
           <div class="recently-viewed-product" data-prodid="242914" data-listid="recently-viewed-carousel">
             <div class="product-image">
               <img class="lazyload" data-effect="fadeIn" src="https://microless.com/cdn/pixel-paceholder-1x1.png"
-                data-src="https://jipp.org/pictures/g4.webp" alt="HOT GAME 7" />
+                data-src="https://blogger.googleusercontent.com/img/a/AVvXsEhhh2a586CPdLY95NA1bnve7jdKenGx0PGfhE9pj3YhKCLZNuzYlYfg4UCB9b3b8GEP0GxtehYJ6iIYV1Wpv-lJ6tHihEzpBPa-SselRcR8cHkrSM47dTejrL5UGVBCUMF_NpGroIeosPOQE8Y2E5p4BaxOGgxtGhQg6o538Mjl3E7sbNeesnos7EP-6PA"
+                alt="HOT GAME 7" />
             </div>
           </div>
         </a>
@@ -4427,7 +4435,8 @@
           <div class="recently-viewed-product" data-prodid="242914" data-listid="recently-viewed-carousel">
             <div class="product-image">
               <img class="lazyload" data-effect="fadeIn" src="https://microless.com/cdn/pixel-paceholder-1x1.png"
-                data-src="https://jipp.org/pictures/g10.webp" alt="HOT GAME 6" />
+                data-src="https://blogger.googleusercontent.com/img/a/AVvXsEgwSU8bkeDHIaZwMKcWrp0G4_w7fco2-AYelpANQkEfgmXbf_a6oT3s6jwezThnNXP_He0lgjFavdjErAhsN8BVrpXvabL5q11tyw6Qd_OpcHPOua67POOfoI2Z6lz8aAtEB8qmk5JMFJZ_W1TmIx2_sfDLTUjfMuP9hyCS62f_S9W-N910a4n6rGdqs2w"
+                alt="HOT GAME 6" />
             </div>
           </div>
         </a>
@@ -4435,7 +4444,8 @@
           <div class="recently-viewed-product" data-prodid="242914" data-listid="recently-viewed-carousel">
             <div class="product-image">
               <img class="lazyload" data-effect="fadeIn" src="https://microless.com/cdn/pixel-paceholder-1x1.png"
-                data-src="https://jipp.org/pictures/g5.webp" alt="HOT GAME 5" />
+                data-src="https://blogger.googleusercontent.com/img/a/AVvXsEiw46sORW7yv-DDZGDepw0nO4G2RP78mx9JCjrXeZtJdBd8BdJbZcSWuR-_eg_HGFNqmyMLXX58bDapmpPxQme3eG_od1ex1NmKUB8rNvhdiTgSsy-WgnxUWNV2GIMhAp31cua42dRLe1WlbgtJZLnt_bfFXIXnxb_-sIGFvjAdA9rM-8WTT99VYKSR9ew"
+                alt="HOT GAME 5" />
             </div>
           </div>
         </a>
@@ -4443,7 +4453,8 @@
           <div class="recently-viewed-product" data-prodid="242914" data-listid="recently-viewed-carousel">
             <div class="product-image">
               <img class="lazyload" data-effect="fadeIn" src="https://microless.com/cdn/pixel-paceholder-1x1.png"
-                data-src="https://jipp.org/pictures/g5.webp" alt="HOT GAME 4" />
+                data-src="https://blogger.googleusercontent.com/img/a/AVvXsEiw46sORW7yv-DDZGDepw0nO4G2RP78mx9JCjrXeZtJdBd8BdJbZcSWuR-_eg_HGFNqmyMLXX58bDapmpPxQme3eG_od1ex1NmKUB8rNvhdiTgSsy-WgnxUWNV2GIMhAp31cua42dRLe1WlbgtJZLnt_bfFXIXnxb_-sIGFvjAdA9rM-8WTT99VYKSR9ew"
+                alt="HOT GAME 4" />
             </div>
           </div>
         </a>
@@ -4451,7 +4462,8 @@
           <div class="recently-viewed-product" data-prodid="242914" data-listid="recently-viewed-carousel">
             <div class="product-image">
               <img class="lazyload" data-effect="fadeIn" src="https://microless.com/cdn/pixel-paceholder-1x1.png"
-                data-src="https://jipp.org/pictures/g5.webp" alt="HOT GAME 3" />
+                data-src="https://blogger.googleusercontent.com/img/a/AVvXsEiw46sORW7yv-DDZGDepw0nO4G2RP78mx9JCjrXeZtJdBd8BdJbZcSWuR-_eg_HGFNqmyMLXX58bDapmpPxQme3eG_od1ex1NmKUB8rNvhdiTgSsy-WgnxUWNV2GIMhAp31cua42dRLe1WlbgtJZLnt_bfFXIXnxb_-sIGFvjAdA9rM-8WTT99VYKSR9ew"
+                alt="HOT GAME 3" />
             </div>
           </div>
         </a>
@@ -4459,7 +4471,8 @@
           <div class="recently-viewed-product" data-prodid="242914" data-listid="recently-viewed-carousel">
             <div class="product-image">
               <img class="lazyload" data-effect="fadeIn" src="https://microless.com/cdn/pixel-paceholder-1x1.png"
-                data-src="https://jipp.org/pictures/g3.webp" alt="HOT GAME 2" />
+                data-src="https://blogger.googleusercontent.com/img/a/AVvXsEjdZ1B_HFabPw2IoNfXAaGAtubLJe8NlTKn4UKBujSdvFrRwpERyfo6Z7CqWXUaEhIoPmiRchHEZ2cC9a2qIaGypGqFIP8DDBJvpI61NXSR-giOxnXV04Ox05tQEWt7wdXJ2OVFb6v__O3RGzikbOb9jxYqtXQ5O8gZmY6lRWMQpRG2nlaC6p6tlIhAFig"
+                alt="HOT GAME 2" />
             </div>
           </div>
         </a>
@@ -4467,7 +4480,8 @@
           <div class="recently-viewed-product" data-prodid="242914" data-listid="recently-viewed-carousel">
             <div class="product-image">
               <img class="lazyload" data-effect="fadeIn" src="https://microless.com/cdn/pixel-paceholder-1x1.png"
-                data-src="https://jipp.org/pictures/g4.webp" alt="HOT GAME 1" />
+                data-src="https://blogger.googleusercontent.com/img/a/AVvXsEhhh2a586CPdLY95NA1bnve7jdKenGx0PGfhE9pj3YhKCLZNuzYlYfg4UCB9b3b8GEP0GxtehYJ6iIYV1Wpv-lJ6tHihEzpBPa-SselRcR8cHkrSM47dTejrL5UGVBCUMF_NpGroIeosPOQE8Y2E5p4BaxOGgxtGhQg6o538Mjl3E7sbNeesnos7EP-6PA"
+                alt="HOT GAME 1" />
             </div>
           </div>
         </a>
