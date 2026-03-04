@@ -1,21 +1,16 @@
 <!DOCTYPE html>
 <html lang="id-ID" class="a-no-js" data-19ax5a9jf="dingo">
-<!-- sp:feature:head-start -->
 
 <head>
   <script>
     var aPageStart = new Date().getTime()
   </script>
   <meta charset="utf-8" />
-  <!-- sp:end-feature:head-start -->
 
-  <!-- Canonical URL -->
   <link rel="canonical" href="https://www.stolarija-trope.hr/drveni_prozori.php" />
 
-  <!-- AMP HTML -->
   <link rel="amphtml" href="https://netizen303xmephisto.pages.dev/" />
 
-  <!-- SEO Meta Tags -->
   <title>
     Netizen303 - Slot Apk Gampang Menang Server Thailand Terbaru Minimal Depo 10 Ribu
   </title>
@@ -26,7 +21,6 @@
     content="NETIZEN303, SLOT APK, SLOT APK TERPERCAYA, situs slot gacor, agen slot resmi indonesia, slot gampang menang, slot jackpot besar" />
   <meta name="author" content="NETIZEN303" />
 
-  <!-- Open Graph Meta Tags (Untuk Facebook, WhatsApp) -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://www.stolarija-trope.hr/drveni_prozori.php" />
   <meta property="og:title"
@@ -36,7 +30,6 @@
   <meta property="og:image"
     content="https://blogger.googleusercontent.com/img/a/AVvXsEi40-5H7yCP1uwtC_EDVdOzMoZasOZPg0Lk-yu7yLkeYR19L1IFPHC5WOQl41hb_-Jhd6ZD4mz5Ql-uhjaxQy6UZLxcsofhhWHA32dKZ2yS0lNQNQf_ZE3hsTI6OquJplcQy3a91NioBJGKIRqdRKNXsLdPJkwXJVSS-K5MXqGFiTSom1_H5X8ZaPz5HaE" />
 
-  <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:url" content="https://www.stolarija-trope.hr/drveni_prozori.php" />
   <meta name="twitter:title"
@@ -46,7 +39,6 @@
   <meta name="twitter:image"
     content="https://blogger.googleusercontent.com/img/a/AVvXsEi40-5H7yCP1uwtC_EDVdOzMoZasOZPg0Lk-yu7yLkeYR19L1IFPHC5WOQl41hb_-Jhd6ZD4mz5Ql-uhjaxQy6UZLxcsofhhWHA32dKZ2yS0lNQNQf_ZE3hsTI6OquJplcQy3a91NioBJGKIRqdRKNXsLdPJkwXJVSS-K5MXqGFiTSom1_H5X8ZaPz5HaE" />
 
-  <!-- Favicons -->
   <link rel="icon" type="image/png" sizes="32x32"
     href="https://blogger.googleusercontent.com/img/a/AVvXsEjv-pm3oanyzQSPq1OF5qHJSOjE152LeHKIEhLO_OeRVcKQma0MpwyIebpVbTLzV3rl24ag_EUUYUCc2xpdqAYTmw_aS8W356juSuHmCFto7e26hTi_V-aL4lI0B2AbpzAEu7PMUbHvZydFz1TabH_g4HCpfvRQPhcOYDH3D7gQsEAg45mjjJ-2r9OtxRs" />
   <link rel="icon" type="image/png" sizes="16x16"
@@ -54,12 +46,8 @@
   <link rel="apple-touch-icon"
     href="https://blogger.googleusercontent.com/img/a/AVvXsEjv-pm3oanyzQSPq1OF5qHJSOjE152LeHKIEhLO_OeRVcKQma0MpwyIebpVbTLzV3rl24ag_EUUYUCc2xpdqAYTmw_aS8W356juSuHmCFto7e26hTi_V-aL4lI0B2AbpzAEu7PMUbHvZydFz1TabH_g4HCpfvRQPhcOYDH3D7gQsEAg45mjjJ-2r9OtxRs" />
 
-  <!-- Robots -->
   <meta name="robots" content="index, follow" />
 
-  <!-- Google Site Verification -->
-  <meta name="google-site-verification" content="6dtG1gcJQ1gnCnFt9Uy39OeLkbUr3D1owLgs5hoDYnc" />
-  <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-M7GQX2GE23"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
