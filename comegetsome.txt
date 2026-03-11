@@ -1,0 +1,773 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="amphtml" href="https://slotgaransikekalahanx120.pages.dev/">
+    <link rel="canonical" href="https://www.sindsemp-ma.org.br/contato/" />
+    <meta name="robots" content="index,follow" />
+    <meta name="author" content="NETIZEN303" />
+    <link rel="icon"
+        href="https://blogger.googleusercontent.com/img/a/AVvXsEie8UQ7jwyGXOLZZ_TF-B52qFwajRF22OF_Tj4avM9Q_zrLasV9wW0LPG2jAOSJ4imCP0ip61manGg3pZFYC194gJy8y6Bw-XwxFNH1W96aFThEaB8uB1NCgmAFZPxySR8VwwrXynzujXDMZV0nZ5QSO3ycO548uDMesss9ho9IlHJvGoqHq507MbQkSqA" />
+
+    <!-- SEO Optimized Title -->
+    <title>Daftar Slot Garansi Kekalahan 100 Persen Tanpa Syarat Ribet di Server Thailand</title>
+
+    <!-- SEO Meta -->
+    <meta name="description"
+        content="netizen303 hadir sebagai platform slot garansi kekalahan 100 persen tanpa syarat ribet langsung di server Thailand, memberikan jaminan penuh atas setiap kekalahan dengan proses klaim mudah, cepat, dan tanpa potongan apapun." />
+
+    <!-- Open Graph -->
+    <meta property="og:url" content="https://www.sindsemp-ma.org.br/contato/" />
+    <meta property="og:title" content="Daftar Slot Garansi Kekalahan 100 Persen Tanpa Syarat Ribet di Server Thailand">
+    <meta property="og:description"
+        content="netizen303 hadir sebagai platform slot garansi kekalahan 100 persen tanpa syarat ribet langsung di server Thailand, memberikan jaminan penuh atas setiap kekalahan dengan proses klaim mudah, cepat, dan tanpa potongan apapun.">
+    <meta property="og:site_name" content="NETIZEN303" />
+    <meta property="og:author" content="NETIZEN303">
+    <meta property="og:image:alt" content="NETIZEN303" />
+    <meta property="og:image"
+        content="https://blogger.googleusercontent.com/img/a/AVvXsEi46WzFDmxvOW717e19fA7RJSPUaLwNyTHGyMVHekinHogr04P9sTfmsFQiXss11xZ5v1wlsK5oaO1zSeGn12aVMSm0BOqgxuEsNHaAer6KS4BmhdMtySOLP03bVJamvqmK6f2uQrP7LmCBl8CsjtkJ3xl78kHFxKMG_BWTuUEUCD2HLmQ7amTZf1bkvPo" />
+    <meta property="og:locale" content="id_ID">
+    <meta property="og:type" content="website">
+
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <style>
+        * {
+            font-family: BlinkMacSystemFont, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        .sticky-header {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            transition: box-shadow 0.3s;
+        }
+
+        .sticky-header.scrolled {
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .sticky-tabs {
+            position: sticky;
+            top: 60px;
+            z-index: 90;
+        }
+
+        .sticky-sidebar {
+            position: sticky;
+            top: 140px;
+        }
+
+        .tab-active {
+            border-bottom: 2px solid #003580;
+            color: #003580;
+            font-weight: 600;
+        }
+
+        .hover-scale:hover {
+            transform: scale(1.02);
+            transition: transform 0.2s;
+        }
+
+        .gallery-overlay {
+            background: linear-gradient(to top, rgba(0, 0, 0, 0.7), transparent);
+        }
+
+        .rating-badge {
+            background: #003580;
+            color: white;
+            border-radius: 8px 8px 8px 0;
+        }
+
+        .urgency-text {
+            background: #fff4e6;
+            border-left: 3px solid #ff8c00;
+        }
+
+        .game-card {
+            transition: all 0.3s ease;
+        }
+
+        .game-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+        }
+
+        @media (max-width: 768px) {
+            .sticky-sidebar {
+                position: relative;
+                top: 0;
+            }
+
+            .mobile-scroll {
+                overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
+            }
+
+            .mobile-scroll::-webkit-scrollbar {
+                display: none;
+            }
+        }
+    </style>
+</head>
+
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="bg-[#003580] text-white sticky-header" id="header">
+        <div class="max-w-7xl mx-auto px-4 py-3">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center space-x-4 md:space-x-8">
+                    <h1 class="text-xl md:text-2xl font-bold">netizen303</h1>
+                    <nav class="hidden md:flex space-x-6 text-sm">
+                        <a href="https://www.sindsemp-ma.org.br/contato/" class="hover:underline">Poker</a>
+                        <a href="https://www.sindsemp-ma.org.br/contato/" class="hover:underline">Togel</a>
+                        <a href="https://www.sindsemp-ma.org.br/contato/" class="hover:underline">Slot Garansi</a>
+                        <a href="https://www.sindsemp-ma.org.br/contato/" class="hover:underline">Casino</a>
+                        <a href="https://www.sindsemp-ma.org.br/contato/" class="hover:underline">Sportsbook</a>
+                    </nav>
+                </div>
+                <div class="flex items-center space-x-2 md:space-x-4 text-sm">
+
+                    <a href="https://www.sindsemp-ma.org.br/contato/" target="_blank" rel="noopener"
+                        class="hover:bg-[#004099] px-2 md:px-3 py-2 rounded text-xs md:text-sm inline-block">
+                        IND
+                    </a>
+
+                    <a href="https://www.sindsemp-ma.org.br/contato/" target="_blank" rel="noopener"
+                        class="hover:bg-[#004099] px-2 md:px-3 py-2 rounded flex items-center text-xs md:text-sm">
+                        <i class="fas fa-flag mr-1"></i> ID
+                    </a>
+
+                    <a href="https://slotgaransikekalahanx120.pages.dev/" target="_blank" rel="nofollow noopener">
+                        <button
+                            class="animate-blink-button bg-white text-[#003580] px-3 md:px-4 py-2 rounded font-semibold hover:bg-gray-100 text-xs md:text-sm">
+                            Login / Daftar
+                        </button>
+                    </a>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- Search Bar -->
+        <div class="bg-[#febb02] px-4 py-2 md:py-3">
+            <div class="max-w-7xl mx-auto">
+                <!-- Desktop Search -->
+                <div class="hidden md:flex bg-white rounded-sm p-2 items-center space-x-2 text-sm">
+                    <input type="text" placeholder="NETIZEN303"
+                        class="flex-1 px-3 py-2 outline-none text-gray-800 placeholder-gray-400" value="NETIZEN303">
+                    <input type="text" placeholder="date"
+                        class="px-3 py-2 outline-none w-32 text-gray-800 placeholder-gray-400" value="Jan 01, 2026">
+                    <input type="text" placeholder="date"
+                        class="px-3 py-2 outline-none w-32 text-gray-800 placeholder-gray-400" value="Des 31, 2026">
+                    <input type="text" placeholder="SERVER SLOT THAILAND RESMI"
+                        class="px-3 py-2 outline-none w-48 text-gray-800 placeholder-gray-400">
+                    <button class="bg-[#006ce4] text-white px-6 py-2 rounded font-semibold hover:bg-[#0057b8]">
+                        Cari
+                    </button>
+                </div>
+
+                <!-- Mobile Search (Compact) -->
+                <div class="flex md:hidden bg-white rounded-sm p-2 items-center space-x-2">
+                    <input type="text" placeholder="Cari di NETIZEN303..."
+                        class="flex-1 px-3 py-2 outline-none text-gray-800 placeholder-gray-400 text-sm">
+                    <button class="bg-[#006ce4] text-white px-4 py-2 rounded font-semibold hover:bg-[#0057b8] text-sm">
+                        <i class="fas fa-search"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 py-4">
+        <!-- Breadcrumbs -->
+        <nav class="text-xs md:text-sm mb-4 overflow-x-auto whitespace-nowrap">
+            <a href="https://www.sindsemp-ma.org.br/contato/" class="text-[#006ce4] hover:underline">Beranda</a>
+            <span class="mx-2">›</span>
+            <a href="https://www.sindsemp-ma.org.br/contato/" class="text-[#006ce4] hover:underline">Situs Slot
+                Online</a>
+            <span class="mx-2">›</span>
+            <a href="https://www.sindsemp-ma.org.br/contato/" class="text-[#006ce4] hover:underline">Garansi
+                Kekalahan</a>
+            <span class="mx-2">›</span>
+            <a href="https://www.sindsemp-ma.org.br/contato/" class="text-[#006ce4] hover:underline">Slot 100 Persen</a>
+            <span class="mx-2">›</span>
+            <a href="https://www.sindsemp-ma.org.br/contato/" class="text-[#006ce4] hover:underline">Server Thailand
+                Pusat</a>
+        </nav>
+
+        <!-- Title & Rating -->
+        <div class="flex flex-col md:flex-row items-start justify-between mb-4 space-y-4 md:space-y-0">
+            <div>
+                <h1 class="text-2xl md:text-3xl font-bold mb-2">Daftar Slot Garansi Kekalahan 100 Persen Tanpa Syarat
+                    Ribet di Server Thailand</h1>
+                <div class="flex items-center space-x-2 text-sm mb-2">
+                    <i class="fas fa-map-marker-alt text-gray-600"></i>
+                    <span>netizen303 Indonesia</span>
+                    <a href="https://www.sindsemp-ma.org.br/contato/" class="text-[#006ce4] hover:underline">Lokasi -
+                        lihat
+                        peta</a>
+                </div>
+                <div class="flex items-center space-x-3">
+                    <div class="rating-badge px-2 py-1 text-sm font-semibold">9.8</div>
+                    <div>
+                        <div class="font-semibold">Luar Biasa</div>
+                        <div class="text-sm text-gray-600">1.530 ulasan</div>
+                    </div>
+                    <style>
+                        @keyframes pulse-glow {
+
+                            0%,
+                            100% {
+                                transform: scale(1);
+                                box-shadow: 0 0 0px rgba(0, 108, 228, 0);
+                            }
+
+                            50% {
+                                transform: scale(1.03);
+                                box-shadow: 0 0 20px rgba(0, 108, 228, 0.6);
+                            }
+                        }
+
+                        .animate-blink-button {
+                            animation: pulse-glow 2s infinite ease-in-out;
+                        }
+                    </style>
+
+                    <a href="https://slotgaransikekalahanx120.pages.dev/" target="_blank" rel="noopener"
+                        class="animate-blink-button w-full bg-[#006ce4] hover:bg-[#0057b8] text-white font-bold py-3 rounded text-base md:text-lg mb-3 transition-all duration-300 inline-block text-center">
+                        Daftar Sekarang
+                    </a>
+
+                </div>
+
+
+            </div>
+            <div class="flex items-center space-x-2">
+                <button class="text-[#006ce4] hover:bg-gray-100 px-3 md:px-4 py-2 rounded text-sm">
+                    <i class="far fa-heart mr-1"></i> Simpan
+                </button>
+                <button class="text-[#006ce4] hover:bg-gray-100 px-3 md:px-4 py-2 rounded text-sm">
+                    <i class="fas fa-share-alt mr-1"></i> Bagikan
+                </button>
+            </div>
+        </div>
+
+        <!-- Photo Gallery -->
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mb-6">
+
+            <!-- Image 1 (besar) -->
+            <div
+                class="col-span-2 row-span-2 relative overflow-hidden rounded-l cursor-pointer hover-scale aspect-square">
+                <img src="https://blogger.googleusercontent.com/img/a/AVvXsEi46WzFDmxvOW717e19fA7RJSPUaLwNyTHGyMVHekinHogr04P9sTfmsFQiXss11xZ5v1wlsK5oaO1zSeGn12aVMSm0BOqgxuEsNHaAer6KS4BmhdMtySOLP03bVJamvqmK6f2uQrP7LmCBl8CsjtkJ3xl78kHFxKMG_BWTuUEUCD2HLmQ7amTZf1bkvPo"
+                    alt="Platform tampilan" class="w-full h-full object-cover">
+            </div>
+
+            <!-- Image 2 -->
+            <div class="relative overflow-hidden cursor-pointer hover-scale aspect-square">
+                <img src="https://blogger.googleusercontent.com/img/a/AVvXsEi46WzFDmxvOW717e19fA7RJSPUaLwNyTHGyMVHekinHogr04P9sTfmsFQiXss11xZ5v1wlsK5oaO1zSeGn12aVMSm0BOqgxuEsNHaAer6KS4BmhdMtySOLP03bVJamvqmK6f2uQrP7LmCBl8CsjtkJ3xl78kHFxKMG_BWTuUEUCD2HLmQ7amTZf1bkvPo"
+                    alt="Sportsbook interface" class="w-full h-full object-cover">
+            </div>
+
+            <!-- Image 3 -->
+            <div class="relative overflow-hidden rounded-tr cursor-pointer hover-scale aspect-square">
+                <img src="https://blogger.googleusercontent.com/img/a/AVvXsEi46WzFDmxvOW717e19fA7RJSPUaLwNyTHGyMVHekinHogr04P9sTfmsFQiXss11xZ5v1wlsK5oaO1zSeGn12aVMSm0BOqgxuEsNHaAer6KS4BmhdMtySOLP03bVJamvqmK6f2uQrP7LmCBl8CsjtkJ3xl78kHFxKMG_BWTuUEUCD2HLmQ7amTZf1bkvPo"
+                    alt="Slot games" class="w-full h-full object-cover">
+            </div>
+
+            <!-- Image 4 -->
+            <div class="relative overflow-hidden cursor-pointer hover-scale aspect-square">
+                <img src="https://blogger.googleusercontent.com/img/a/AVvXsEi46WzFDmxvOW717e19fA7RJSPUaLwNyTHGyMVHekinHogr04P9sTfmsFQiXss11xZ5v1wlsK5oaO1zSeGn12aVMSm0BOqgxuEsNHaAer6KS4BmhdMtySOLP03bVJamvqmK6f2uQrP7LmCBl8CsjtkJ3xl78kHFxKMG_BWTuUEUCD2HLmQ7amTZf1bkvPo"
+                    alt="Live casino" class="w-full h-full object-cover">
+            </div>
+
+            <!-- Image 5 -->
+            <div class="relative overflow-hidden rounded-br cursor-pointer hover-scale aspect-square">
+                <img src="https://blogger.googleusercontent.com/img/a/AVvXsEi46WzFDmxvOW717e19fA7RJSPUaLwNyTHGyMVHekinHogr04P9sTfmsFQiXss11xZ5v1wlsK5oaO1zSeGn12aVMSm0BOqgxuEsNHaAer6KS4BmhdMtySOLP03bVJamvqmK6f2uQrP7LmCBl8CsjtkJ3xl78kHFxKMG_BWTuUEUCD2HLmQ7amTZf1bkvPo"
+                    alt="Mobile platform" class="w-full h-full object-cover">
+
+                <!-- Overlay -->
+                <div class="absolute inset-0 bg-black/40 flex items-end justify-center pb-4">
+                    <button class="bg-white text-gray-800 px-3 md:px-4 py-2 rounded font-semibold text-sm shadow">
+                        <i class="fas fa-th mr-2"></i> Lihat semua 10 gambar
+                    </button>
+                </div>
+            </div>
+
+        </div>
+
+
+        <!-- Navigation Tabs -->
+        <div class="sticky-tabs bg-white border-b mb-6 overflow-x-auto">
+            <nav class="flex space-x-4 md:space-x-8 text-sm whitespace-nowrap">
+                <a href="#overview" class="tab-active py-4 px-2">Ringkasan</a>
+                <a href="#info" class="py-4 px-2 hover:text-[#003580]">Info & Paket</a>
+                <a href="#facilities" class="py-4 px-2 hover:text-[#003580]">Keunggulan</a>
+                <a href="#rules" class="py-4 px-2 hover:text-[#003580]">Ketentuan</a>
+                <a href="#fine-print" class="py-4 px-2 hover:text-[#003580]">Syarat & Layanan</a>
+                <a href="#reviews" class="py-4 px-2 hover:text-[#003580]">Ulasan Member (1.530)</a>
+            </nav>
+        </div>
+
+        <!-- Two Column Layout -->
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+            <!-- Main Content (70%) -->
+            <div class="lg:col-span-2 space-y-6">
+                <!-- Urgency Banner -->
+                <div class="urgency-text p-4 rounded">
+                    <p class="font-semibold text-orange-800 text-sm md:text-base">
+                        <i class="fas fa-fire mr-2"></i>
+                        Bergabunglah sekarang dan klaim garansi kekalahan 100% tanpa syarat ribet — hanya di
+                        <strong>netizen303</strong> server Thailand!
+                    </p>
+                </div>
+
+                <!-- Benefit NETIZEN303 -->
+                <div class="bg-white rounded-lg p-4 md:p-6 shadow-sm">
+                    <h2 class="text-xl md:text-2xl font-bold mb-4">Benefit netizen303</h2>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                        <div>
+                            <h3 class="font-semibold mb-2 flex items-center text-sm md:text-base">
+                                <i class="fas fa-shield-alt text-[#006ce4] mr-2"></i>
+                                Garansi Kekalahan 100% Penuh
+                            </h3>
+                            <p class="text-xs md:text-sm text-gray-700">Jaminan kekalahan dikembalikan sepenuhnya tanpa
+                                potongan, langsung masuk saldo aktif tanpa prosedur berbelit.</p>
+                        </div>
+                        <div>
+                            <h3 class="font-semibold mb-2 flex items-center text-sm md:text-base">
+                                <i class="fas fa-chart-line text-[#006ce4] mr-2"></i>
+                                Slot RTP Terverifikasi Tinggi
+                            </h3>
+                            <p class="text-xs md:text-sm text-gray-700">Data RTP diperbarui secara real-time setiap hari
+                                agar Anda selalu mendapatkan mesin slot dengan peluang terbaik.</p>
+                        </div>
+                        <div>
+                            <h3 class="font-semibold mb-2 flex items-center text-sm md:text-base">
+                                <i class="fas fa-server text-[#006ce4] mr-2"></i>
+                                Server Thailand Super Stabil
+                            </h3>
+                            <p class="text-xs md:text-sm text-gray-700">Infrastruktur server pusat Thailand bertenaga
+                                tinggi yang memastikan permainan berjalan mulus tanpa lag kapanpun.</p>
+                        </div>
+                        <div>
+                            <h3 class="font-semibold mb-2 flex items-center text-sm md:text-base">
+                                <i class="fas fa-futbol text-[#006ce4] mr-2"></i>
+                                Sportsbook & Game Terlengkap
+                            </h3>
+                            <p class="text-xs md:text-sm text-gray-700">Bursa taruhan olahraga liga dunia hingga kasino
+                                live tersedia dalam satu platform dengan odds paling kompetitif.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Description -->
+                <div class="bg-white rounded-lg p-4 md:p-6 shadow-sm">
+                    <h2 class="text-xl md:text-2xl font-bold mb-4">Tentang Platform Ini</h2>
+                    <p class="text-sm md:text-base text-gray-700 mb-4 leading-relaxed">
+                        netizen303 hadir sebagai platform slot garansi kekalahan 100 persen yang dirancang untuk pemain
+                        Indonesia yang menginginkan pengalaman bermain adil dan transparan. Didukung server Thailand
+                        terpusat, setiap sesi berjalan tanpa gangguan dari perangkat apa pun dan kapan saja.
+                    </p>
+                    <div class="mt-4">
+                        <span class="inline-block bg-green-100 text-green-800 text-xs px-2 py-1 rounded font-semibold">
+                            Member sangat menyukai platform ini – rating kepuasan mencapai 9.8 dari 10
+                        </span>
+                    </div>
+                </div>
+
+                <!-- Keunggulan Layanan -->
+                <div class="bg-white rounded-lg p-4 md:p-6 shadow-sm">
+                    <h2 class="text-xl md:text-2xl font-bold mb-4">Keunggulan Layanan</h2>
+                    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 md:gap-4">
+                        <div class="flex items-center space-x-2 text-xs md:text-sm">
+                            <i class="fas fa-lock text-green-600"></i>
+                            <span>Enkripsi Data SSL 256-bit</span>
+                        </div>
+                        <div class="flex items-center space-x-2 text-xs md:text-sm">
+                            <i class="fas fa-bolt text-green-600"></i>
+                            <span>Tarik Dana & Isi Saldo Instan</span>
+                        </div>
+                        <div class="flex items-center space-x-2 text-xs md:text-sm">
+                            <i class="fas fa-headset text-green-600"></i>
+                            <span>CS Responsif Nonstop 24 Jam</span>
+                        </div>
+                        <div class="flex items-center space-x-2 text-xs md:text-sm">
+                            <i class="fas fa-mobile-alt text-green-600"></i>
+                            <span>Optimal di Semua Perangkat</span>
+                        </div>
+                        <div class="flex items-center space-x-2 text-xs md:text-sm">
+                            <i class="fas fa-gift text-green-600"></i>
+                            <span>Komisi Referral Setiap Hari</span>
+                        </div>
+                        <div class="flex items-center space-x-2 text-xs md:text-sm">
+                            <i class="fas fa-certificate text-green-600"></i>
+                            <span>Provider Slot Berlisensi Resmi</span>
+                        </div>
+                        <div class="flex items-center space-x-2 text-xs md:text-sm">
+                            <i class="fas fa-wallet text-green-600"></i>
+                            <span>Bank Lokal, QRIS & E-Wallet</span>
+                        </div>
+                        <div class="flex items-center space-x-2 text-xs md:text-sm">
+                            <i class="fas fa-users text-green-600"></i>
+                            <span>Komunitas Member Solid & Aktif</span>
+                        </div>
+                        <div class="flex items-center space-x-2 text-xs md:text-sm">
+                            <i class="fas fa-star text-green-600"></i>
+                            <span>Program Loyalitas VIP Eksklusif</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Game Populer -->
+                <div class="bg-white rounded-lg p-4 md:p-6 shadow-sm" id="info">
+                    <h2 class="text-xl md:text-2xl font-bold mb-4">Game Populer</h2>
+                    <p class="text-xs md:text-sm text-gray-600 mb-4">Temukan game unggulan dengan garansi kekalahan
+                        penuh di setiap kategori</p>
+
+                    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+
+                        <!-- Game Card 1 -->
+                        <div
+                            class="game-card bg-gradient-to-br from-blue-50 to-white rounded-lg p-4 border border-gray-200 shadow-sm h-full flex flex-col">
+                            <div class="flex items-center justify-between mb-3">
+                                <div class="flex items-center space-x-2">
+                                    <i class="fas fa-futbol text-2xl text-blue-600"></i>
+                                    <h3 class="font-bold text-base md:text-lg">Sportsbook</h3>
+                                </div>
+                                <span
+                                    class="bg-red-500 text-white text-xs px-2 py-1 rounded-full font-semibold">LIVE</span>
+                            </div>
+                            <p class="text-xs md:text-sm text-gray-600 mb-3 flex-grow">
+                                Pasang taruhan di laga olahraga bergengsi dunia dengan odds terbaru dan kompetitif
+                                setiap harinya.
+                            </p>
+                            <div class="flex flex-wrap gap-1 mb-3">
+                                <span class="text-xs bg-blue-100 text-blue-700 px-2 py-1 rounded">Premier League</span>
+                                <span class="text-xs bg-blue-100 text-blue-700 px-2 py-1 rounded">La Liga</span>
+                                <span class="text-xs bg-blue-100 text-blue-700 px-2 py-1 rounded">Serie A</span>
+                            </div>
+                            <a href="https://slotgaransikekalahanx120.pages.dev/" target="_blank"
+                                rel="nofollow noopener"
+                                class="animate-blink-button w-full bg-[#006ce4] hover:bg-[#0057b8] text-white py-2 rounded font-semibold text-sm transition text-center">
+                                Main Sekarang
+                            </a>
+                        </div>
+
+                        <!-- Game Card 2 -->
+                        <div
+                            class="game-card bg-gradient-to-br from-purple-50 to-white rounded-lg p-4 border border-gray-200 shadow-sm h-full flex flex-col">
+                            <div class="flex items-center justify-between mb-3">
+                                <div class="flex items-center space-x-2">
+                                    <i class="fas fa-gem text-2xl text-purple-600"></i>
+                                    <h3 class="font-bold text-base md:text-lg">Slot Garansi</h3>
+                                </div>
+                                <span
+                                    class="bg-yellow-500 text-white text-xs px-2 py-1 rounded-full font-semibold">HOT</span>
+                            </div>
+                            <p class="text-xs md:text-sm text-gray-600 mb-3 flex-grow">
+                                Ribuan slot RTP tinggi dengan jaminan kekalahan 100% — bermain bebas tanpa khawatir rugi
+                                besar.
+                            </p>
+                            <div class="flex flex-wrap gap-1 mb-3">
+                                <span class="text-xs bg-purple-100 text-purple-700 px-2 py-1 rounded">RTP 97%+</span>
+                                <span class="text-xs bg-purple-100 text-purple-700 px-2 py-1 rounded">Pragmatic</span>
+                                <span class="text-xs bg-purple-100 text-purple-700 px-2 py-1 rounded">PG Soft</span>
+                            </div>
+                            <a href="https://slotgaransikekalahanx120.pages.dev/" target="_blank"
+                                rel="nofollow noopener"
+                                class="animate-blink-button w-full bg-[#006ce4] hover:bg-[#0057b8] text-white py-2 rounded font-semibold text-sm transition text-center">
+                                Main Sekarang
+                            </a>
+                        </div>
+
+                        <!-- Game Card 3 -->
+                        <div
+                            class="game-card bg-gradient-to-br from-red-50 to-white rounded-lg p-4 border border-gray-200 shadow-sm h-full flex flex-col">
+                            <div class="flex items-center justify-between mb-3">
+                                <div class="flex items-center space-x-2">
+                                    <i class="fas fa-dice text-2xl text-red-600"></i>
+                                    <h3 class="font-bold text-base md:text-lg">Live Casino</h3>
+                                </div>
+                                <span
+                                    class="bg-green-500 text-white text-xs px-2 py-1 rounded-full font-semibold">NEW</span>
+                            </div>
+                            <p class="text-xs md:text-sm text-gray-600 mb-3 flex-grow">
+                                Meja langsung bersama dealer profesional aktif 24 jam, menghadirkan suasana kasino nyata
+                                langsung dari layar Anda.
+                            </p>
+                            <div class="flex flex-wrap gap-1 mb-3">
+                                <span class="text-xs bg-red-100 text-red-700 px-2 py-1 rounded">Baccarat</span>
+                                <span class="text-xs bg-red-100 text-red-700 px-2 py-1 rounded">Roulette</span>
+                                <span class="text-xs bg-red-100 text-red-700 px-2 py-1 rounded">Blackjack</span>
+                            </div>
+                            <a href="https://slotgaransikekalahanx120.pages.dev/" target="_blank"
+                                rel="nofollow noopener"
+                                class="animate-blink-button w-full bg-[#006ce4] hover:bg-[#0057b8] text-white py-2 rounded font-semibold text-sm transition text-center">
+                                Main Sekarang
+                            </a>
+                        </div>
+
+                        <!-- Game Card 4 -->
+                        <div
+                            class="game-card bg-gradient-to-br from-green-50 to-white rounded-lg p-4 border border-gray-200 shadow-sm h-full flex flex-col">
+                            <div class="flex items-center space-x-2 mb-3">
+                                <i class="fas fa-spade text-2xl text-green-600"></i>
+                                <h3 class="font-bold text-base md:text-lg">Poker Online</h3>
+                            </div>
+                            <p class="text-xs md:text-sm text-gray-600 mb-3 flex-grow">
+                                Arena poker kompetitif dengan turnamen berhadiah besar tersedia setiap hari — uji
+                                strategi dan keberuntunganmu.
+                            </p>
+                            <div class="flex flex-wrap gap-1 mb-3">
+                                <span class="text-xs bg-green-100 text-green-700 px-2 py-1 rounded">Texas Hold'em</span>
+                                <span class="text-xs bg-green-100 text-green-700 px-2 py-1 rounded">Omaha</span>
+                            </div>
+                            <a href="https://slotgaransikekalahanx120.pages.dev/" target="_blank"
+                                rel="nofollow noopener"
+                                class="animate-blink-button w-full bg-[#006ce4] hover:bg-[#0057b8] text-white py-2 rounded font-semibold text-sm transition text-center">
+                                Main Sekarang
+                            </a>
+                        </div>
+
+                        <!-- Game Card 5 -->
+                        <div
+                            class="game-card bg-gradient-to-br from-orange-50 to-white rounded-lg p-4 border border-gray-200 shadow-sm h-full flex flex-col">
+                            <div class="flex items-center justify-between mb-3">
+                                <div class="flex items-center space-x-2">
+                                    <i class="fas fa-trophy text-2xl text-orange-600"></i>
+                                    <h3 class="font-bold text-base md:text-lg">E-Sports</h3>
+                                </div>
+                                <span
+                                    class="bg-blue-500 text-white text-xs px-2 py-1 rounded-full font-semibold">TREND</span>
+                            </div>
+                            <p class="text-xs md:text-sm text-gray-600 mb-3 flex-grow">
+                                Taruhan di turnamen e-sports favoritmu dengan market terlengkap dan dukungan statistik
+                                pertandingan secara langsung.
+                            </p>
+                            <div class="flex flex-wrap gap-1 mb-3">
+                                <span class="text-xs bg-orange-100 text-orange-700 px-2 py-1 rounded">Mobile
+                                    Legends</span>
+                                <span class="text-xs bg-orange-100 text-orange-700 px-2 py-1 rounded">Dota 2</span>
+                            </div>
+                            <a href="https://slotgaransikekalahanx120.pages.dev/" target="_blank"
+                                rel="nofollow noopener"
+                                class="animate-blink-button w-full bg-[#006ce4] hover:bg-[#0057b8] text-white py-2 rounded font-semibold text-sm transition text-center">
+                                Main Sekarang
+                            </a>
+                        </div>
+
+                        <!-- Game Card 6 -->
+                        <div
+                            class="game-card bg-gradient-to-br from-pink-50 to-white rounded-lg p-4 border border-gray-200 shadow-sm h-full flex flex-col">
+                            <div class="flex items-center space-x-2 mb-3">
+                                <i class="fas fa-percent text-2xl text-pink-600"></i>
+                                <h3 class="font-bold text-base md:text-lg">Togel Online</h3>
+                            </div>
+                            <p class="text-xs md:text-sm text-gray-600 mb-3 flex-grow">
+                                Pasaran togel resmi terlengkap dengan diskon hingga 70% dan hasil pengundian yang
+                                transparan setiap harinya.
+                            </p>
+                            <div class="flex flex-wrap gap-1 mb-3">
+                                <span class="text-xs bg-pink-100 text-pink-700 px-2 py-1 rounded">Singapore</span>
+                                <span class="text-xs bg-pink-100 text-pink-700 px-2 py-1 rounded">Hongkong</span>
+                                <span class="text-xs bg-pink-100 text-pink-700 px-2 py-1 rounded">Sydney</span>
+                            </div>
+                            <a href="https://slotgaransikekalahanx120.pages.dev/" target="_blank"
+                                rel="nofollow noopener"
+                                class="animate-blink-button w-full bg-[#006ce4] hover:bg-[#0057b8] text-white py-2 rounded font-semibold text-sm transition text-center">
+                                Main Sekarang
+                            </a>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- Sidebar (30%) -->
+            <div class="lg:col-span-1">
+                <div class="sticky-sidebar">
+                    <!-- Reservation Card -->
+                    <div class="bg-white rounded-lg shadow-lg p-4 md:p-6 border-2 border-[#febb02]">
+                        <div class="text-xs text-gray-600 mt-1">MINIMAL DEPOSIT</div>
+                        <div class="mb-4">
+                            <div class="flex items-baseline">
+                                <span class="text-2xl md:text-3xl font-bold">IDR 10.000</span>
+                            </div>
+                            <span class="text-xs md:text-sm text-gray-600 block mt-1">Transfer Bank, QRIS, E-Wallet
+                                (OVO, Dana, GoPay, LinkAja), Pulsa</span>
+                        </div>
+
+                        <div class="space-y-3 mb-4">
+                            <div>
+                                <label class="text-xs font-semibold text-gray-700 block mb-1">MULAI BERMAIN</label>
+                                <input type="text" value="SERVER THAILAND GARANSI KEKALAHAN"
+                                    class="w-full border rounded px-3 py-2 text-xs md:text-sm">
+                            </div>
+                            <div>
+                                <label class="text-xs font-semibold text-gray-700 block mb-1">JAM OPERASIONAL</label>
+                                <input type="text" value="Aktif 24 Jam, 7 Hari, 365 Hari Penuh"
+                                    class="w-full border rounded px-3 py-2 text-xs md:text-sm">
+                            </div>
+                            <div>
+                                <label class="text-xs font-semibold text-gray-700 block mb-1">PLATFORM</label>
+                                <select class="w-full border rounded px-3 py-2 text-xs md:text-sm">
+                                    <option>ANDROID</option>
+                                    <option>IOS</option>
+                                    <option>WINDOWS</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <style>
+                            @keyframes pulse-glow {
+
+                                0%,
+                                100% {
+                                    transform: scale(1);
+                                    box-shadow: 0 0 0px rgba(0, 108, 228, 0);
+                                }
+
+                                50% {
+                                    transform: scale(1.03);
+                                    box-shadow: 0 0 20px rgba(0, 108, 228, 0.6);
+                                }
+                            }
+
+                            .animate-blink-button {
+                                animation: pulse-glow 2s infinite ease-in-out;
+                            }
+                        </style>
+
+                        <a href="https://slotgaransikekalahanx120.pages.dev/" target="_blank" rel="nofollow noopener"
+                            class="animate-blink-button w-full bg-[#006ce4] hover:bg-[#0057b8] text-white font-bold py-3 rounded text-base md:text-lg mb-3 transition-all duration-300 inline-block text-center">
+                            Daftar Sekarang
+                        </a>
+
+                        <div class="text-center text-xs md:text-sm text-gray-600 mb-3">
+                            Registrasi gratis tanpa biaya pendaftaran
+                        </div>
+
+                        <div class="border-t pt-3 space-y-2 text-xs md:text-sm">
+                            <div class="flex justify-between">
+                                <span>Deposit minimal</span>
+                                <span>IDR 10.000</span>
+                            </div>
+                            <div class="flex justify-between font-bold text-base md:text-lg border-t pt-2">
+                                <span>Total Kredit Aktif</span>
+                                <span>IDR 10.000</span>
+                            </div>
+                        </div>
+
+                        <div class="mt-4 p-3 bg-green-50 rounded text-xs md:text-sm">
+                            <i class="fas fa-check-circle text-green-600 mr-2"></i>
+                            <span class="text-green-800 font-semibold">Penarikan & Deposit Diproses Secara Instan</span>
+                        </div>
+                    </div>
+
+                    <!-- Trust Badges -->
+                    <div class="mt-4 bg-blue-50 rounded-lg p-4">
+                        <div class="flex items-center space-x-2 mb-2">
+                            <i class="fas fa-shield-alt text-blue-600"></i>
+                            <span class="font-semibold text-xs md:text-sm">Jaminan Keamanan Data 100%</span>
+                        </div>
+                        <p class="text-xs text-gray-700">Setiap transaksi dan data pribadi Anda terlindungi enkripsi SSL
+                            256-bit berstandar internasional.</p>
+                    </div>
+
+                    <div class="mt-4 text-center">
+                        <a href="#" class="text-[#006ce4] text-xs md:text-sm hover:underline">
+                            <i class="far fa-question-circle mr-1"></i>
+                            Butuh bantuan? Tim CS kami siap melayani 24/7
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-[#003580] text-white mt-12 py-8">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="grid grid-cols-2 md:grid-cols-5 gap-4 md:gap-6 text-xs md:text-sm">
+                <div>
+                    <h3 class="font-semibold mb-3">Dukungan</h3>
+                    <ul class="space-y-2">
+                        <li><a href="https://www.sindsemp-ma.org.br/contato/" class="hover:underline">Hubungi Customer
+                                Service</a></li>
+                        <li><a href="https://www.sindsemp-ma.org.br/contato/" class="hover:underline">FAQ Garansi
+                                Kekalahan</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h3 class="font-semibold mb-3">Jelajahi</h3>
+                    <ul class="space-y-2">
+                        <li><a href="https://www.sindsemp-ma.org.br/contato/" class="hover:underline">Ulasan Member</a>
+                        </li>
+                        <li><a href="https://www.sindsemp-ma.org.br/contato/" class="hover:underline">Panduan
+                                Bermain</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h3 class="font-semibold mb-3">Permainan</h3>
+                    <ul class="space-y-2">
+                        <li><a href="https://www.sindsemp-ma.org.br/contato/" class="hover:underline">Taruhan Bola</a>
+                        </li>
+                        <li><a href="https://www.sindsemp-ma.org.br/contato/" class="hover:underline">Slot Garansi</a>
+                        </li>
+                        <li><a href="https://www.sindsemp-ma.org.br/contato/" class="hover:underline">Live Casino</a>
+                        </li>
+                    </ul>
+                </div>
+                <div>
+                    <h3 class="font-semibold mb-3">Info</h3>
+                    <ul class="space-y-2">
+                        <li><a href="https://www.sindsemp-ma.org.br/contato/" class="hover:underline">Tentang
+                                netizen303</a></li>
+                        <li><a href="https://www.sindsemp-ma.org.br/contato/" class="hover:underline">Kebijakan
+                                Privasi</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h3 class="font-semibold mb-3">Metode Pembayaran</h3>
+                    <ul class="space-y-2">
+                        <li><a href="https://www.sindsemp-ma.org.br/contato/" class="hover:underline">Transfer Bank
+                                Lokal</a></li>
+                        <li><a href="https://www.sindsemp-ma.org.br/contato/" class="hover:underline">E-Wallet (OVO,
+                                Dana)</a></li>
+                        <li><a href="https://www.sindsemp-ma.org.br/contato/" class="hover:underline">QRIS & Pulsa</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="border-t border-blue-700 mt-8 pt-6 text-center text-xs md:text-sm text-gray-300">
+                <p>&copy; 2026 netizen303. Slot Garansi Kekalahan 100% Server Thailand. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Sticky header effect
+        window.addEventListener('scroll', function () {
+            const header = document.getElementById('header');
+            if (window.scrollY > 0) {
+                header.classList.add('scrolled');
+            } else {
+                header.classList.remove('scrolled');
+            }
+        });
+    </script>
+    <script defer
+        src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516"
+        integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg=="
+        data-cf-beacon='{"version":"2024.11.0","token":"dfeec0c320b149fd805cb7c076b4ec7d","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}'
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
