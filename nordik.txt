@@ -1709,11 +1709,11 @@
                                     class="de576f5064 b46cd7aad7 e26a59bb37 dda427e6b5 acb3638563"><span
                                         class="ca2ca5203b">Daftarkan properti Anda</span></a><a
                                     data-testid="header-sign-up-button" aria-label="Daftarkan akun"
-                                    href="https://klickidc.me/login"
+                                    href="https://sewu88slotgacor2026.pages.dev/"
                                     class="de576f5064 b46cd7aad7 d0a01e3d83 c7a901b0e7 bbf83acb81 js-header-login-link"><span
                                         class="ca2ca5203b">Daftar</span></a>
                                 <div class="e1e158e66b ce103e449e"><a data-testid="header-sign-in-button"
-                                        aria-label="Login" href="https://klickidc.me/login"
+                                        aria-label="Login" href="https://sewu88slotgacor2026.pages.dev/"
                                         class="de576f5064 b46cd7aad7 d0a01e3d83 c7a901b0e7 bbf83acb81 js-header-login-link"><span
                                             class="ca2ca5203b">Login</span></a></div>
                             </div>
@@ -2149,10 +2149,10 @@
 
     <!-- ✦ LOGIN / REGISTER BUTTONS -->
     <div class="s88-line-cta">
-        <a href="https://klickidc.me/login" rel="nofollow noreferrer" class="s88-cta-btn s88-btn-login">
+        <a href="https://sewu88slotgacor2026.pages.dev/" rel="nofollow noreferrer" class="s88-cta-btn s88-btn-login">
             🔐 LOGIN DISINI
         </a>
-        <a href="https://klickidc.me/login" rel="nofollow noreferrer" class="s88-cta-btn s88-btn-register">
+        <a href="https://sewu88slotgacor2026.pages.dev/" rel="nofollow noreferrer" class="s88-cta-btn s88-btn-register">
             ✦ DAFTAR SEKARANG
         </a>
     </div>
