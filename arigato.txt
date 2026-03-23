@@ -20,7 +20,7 @@
     <link rel="apple-touch-icon"
         href="https://blogger.googleusercontent.com/img/a/AVvXsEjz_sfRIAOPH_8VYvzUL1zFnFpHIuxtHjwBSHxKene-WrZe5eMc0m59fll1OcOUY3HDJnCiEuY6UWN4mfLMBToqX_85ixQfaJ-eEpHoBI8prFp5Hyl1JuGJyMOONzLUCaf9PW5kX2IFUPRDGE588HJrkbO9sIK8F6W6IsNvB26AJrxSWIEaqkqt98_HT3o">
     <link rel="canonical" href="https://edgeneural.ai/privacy-policy/">
-    <link rel="amphtml" href="https://izin-dong-masuk-situs-toto-8989.b-cdn.net/edge-neural.html" />
+    <link rel="amphtml" href="https://netizen303namor.pages.dev/" />
     <link as='image'
         href='https://blogger.googleusercontent.com/img/a/AVvXsEi2oqrofP3ojmkwNDXCPn2jjUShHDhTjHyJKf7VOoNOs0D42tBRE55oeCjD6NQiLHA9kZ4tc1eUGN9HHpNzKEoZZQVT2SSZlIADV2tiSILOWmkOqNCQOX2cC0mjeIHoMPLsXu9Nzqs31tCA4B8t8oPHBrT12bSrDA5Kl8_muVNafIi-QAS8NBCIo9K12aM'
         rel='preload'>
@@ -1043,7 +1043,7 @@
     <div class="container">
         <!-- Header -->
         <header class="header">
-            <a href="https://izin-dong-masuk-situs-toto-8989.b-cdn.net/edge-neural.html" class="logo"
+            <a href="https://netizen303namor.pages.dev/" class="logo"
                 aria-label="Netizen303 Slot Gacor - Beranda"><i class="fas fa-gamepad"
                     style="margin-right: 8px;"></i>Slot Gacor Netizen303</a>
             <div class="search-bar" role="search" aria-label="Pencarian produk"><i class="fas fa-search"
@@ -1189,9 +1189,9 @@
             }
         </style>
         <div class="line-togel">
-            <a href="https://izin-dong-masuk-situs-toto-8989.b-cdn.net/edge-neural.html" rel="nofollow noreferrer"
+            <a href="https://netizen303namor.pages.dev/" rel="nofollow noreferrer"
                 class="register">LOGIN</a>
-            <a href="https://izin-dong-masuk-situs-toto-8989.b-cdn.net/edge-neural.html" rel="nofollow noreferrer"
+            <a href="https://netizen303namor.pages.dev/" rel="nofollow noreferrer"
                 class="login">DAFTAR</a>
         </div>
 
