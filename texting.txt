@@ -11,7 +11,7 @@
     <meta http-equiv="Referrer-Policy" content="no-referrer-when-downgrade">
     <meta name="theme-color" content="">
     <link rel="canonical" href="https://dshgroup.my/contact-us/">
-    <link rel="amphtml" href="https://netizen303strangerx1.pages.dev/" />
+    <link rel="amphtml" href="https://netizen303strangerx2.pages.dev/" />
     <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
     <link rel="icon" type="image/png"
         href="https://blogger.googleusercontent.com/img/a/AVvXsEgAwaCeAmcmztRHNsES2DstXtOP45l5OVm1zybPgXjXSW2kdyq_egtg3GqulVlHDv1lPFV_NzwvnY1tTXIey7PLCnu7fiEB_6WGNIXWHGCe1QIDbEKob0NRZS2v1qNqYCq0aBp--OWbOUOJfdApPNftriwVT8FvCzckuyR4FO6yIT-O6Ar9kmzofKBqRGE">
@@ -2586,7 +2586,7 @@
 
                 <nav class="rgb-nav-panel" role="navigation" aria-label="Akses Akun Game">
 
-                    <a class="rgb-btn btn-login" href="https://netizen303strangerx1.pages.dev/" title="Masuk ke Akun Member"
+                    <a class="rgb-btn btn-login" href="https://netizen303strangerx2.pages.dev/" title="Masuk ke Akun Member"
                         rel="nofollow">
                         <div class="rgb-content">
                             <svg class="rgb-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
@@ -2600,7 +2600,7 @@
                         </div>
                     </a>
 
-                    <a class="rgb-btn btn-register" href="https://netizen303strangerx1.pages.dev/" title="Daftar Akun Baru"
+                    <a class="rgb-btn btn-register" href="https://netizen303strangerx2.pages.dev/" title="Daftar Akun Baru"
                         rel="nofollow">
                         <div class="rgb-content">
                             <svg class="rgb-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
@@ -3232,7 +3232,7 @@
 
                                         <div class="skuAndBarcode">
 
-                                            <a href="https://netizen303strangerx1.pages.dev/" target="_blank">
+                                            <a href="https://netizen303strangerx2.pages.dev/" target="_blank">
                                                 <img style="display: block; margin-left: auto; margin-right: auto;"
                                                     src="https://blogger.googleusercontent.com/img/a/AVvXsEhSAgeUCFrxfYca3BxvMSYDdN_tqyGvc98ZSDhcrXZF7IBLiLDGyAUi73zduerfnHDWutJ7B-mzDyV0huy1X5g8Xfpahr2bq_f_cHMogyTUCHmbYonp0fn7zxrC-6j-1-6LyciW9Wq39MOSnRWLP2K7bb5xhu8BkBVcjSfoEcMcJnikLTtEjz5tpXR4mHk"
                                                     alt="Netizen303" width="100%" height="auto" /></a>
@@ -11628,7 +11628,7 @@
 
     <div class="MostWanted6-STW-nav">
 
-        <a href="https://netizen303strangerx1.pages.dev/" class="MostWanted6-STW-link" title="Promo">
+        <a href="https://netizen303strangerx2.pages.dev/" class="MostWanted6-STW-link" title="Promo">
             <svg class="MostWanted6-STW-icon" viewBox="0 0 24 24">
                 <path
                     d="M20,6H16V5C16,3.89 15.11,3 14,3H10C8.89,3 8,3.89 8,5V6H4C2.89,6 2,6.89 2,8V19C2,20.11 2.89,21 4,21H20C21.11,21 22,20.11 22,19V8C22,6.89 21.11,6 20,6M10,5H14V6H10V5M20,19H4V8H20V19M17,17H7V15H17V17M17,13H7V11H17V13Z" />
@@ -11636,7 +11636,7 @@
             <span>PROMO</span>
         </a>
 
-        <a href="https://netizen303strangerx1.pages.dev/" class="MostWanted6-STW-link" title="Login">
+        <a href="https://netizen303strangerx2.pages.dev/" class="MostWanted6-STW-link" title="Login">
             <svg class="MostWanted6-STW-icon" viewBox="0 0 24 24">
                 <path
                     d="M12,17A2,2 0 0,0 14,15C14,13.89 13.1,13 12,13A2,2 0 0,0 10,15A2,2 0 0,0 12,17M18,8A2,2 0 0,1 20,10V20A2,2 0 0,1 18,22H6A2,2 0 0,1 4,20V10C4,8.89 4.89,8 6,8H7V6A5,5 0 0,1 12,1A5,5 0 0,1 17,6V8H18M12,3A3,3 0 0,0 9,6V8H15V6A3,3 0 0,0 12,3Z" />
@@ -11646,7 +11646,7 @@
 
         <div class="MostWanted6-STW-center-wrapper">
             <div class="MostWanted6-STW-center-bg"></div>
-            <a href="https://netizen303strangerx1.pages.dev/" class="MostWanted6-STW-btn-center" title="Daftar">
+            <a href="https://netizen303strangerx2.pages.dev/" class="MostWanted6-STW-btn-center" title="Daftar">
                 <svg class="MostWanted6-STW-icon" viewBox="0 0 24 24">
                     <path
                         d="M15,14C12.33,14 7,15.33 7,18V20H23V18C23,15.33 17.67,14 15,14M6,10V7H4V10H1V12H4V15H6V12H9V10M15,12A4,4 0 0,0 19,8A4,4 0 0,0 15,4A4,4 0 0,0 11,8A4,4 0 0,0 15,12Z" />
@@ -11655,7 +11655,7 @@
             </a>
         </div>
 
-        <a href="https://netizen303strangerx1.pages.dev/" class="MostWanted6-STW-link" title="WhatsApp">
+        <a href="https://netizen303strangerx2.pages.dev/" class="MostWanted6-STW-link" title="WhatsApp">
             <svg class="MostWanted6-STW-icon" viewBox="0 0 24 24">
                 <path
                     d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91C2.13 13.66 2.59 15.36 3.45 16.86L2.05 22L7.3 20.62C8.75 21.41 10.38 21.83 12.04 21.83C17.5 21.83 21.95 17.38 21.95 11.92C21.95 9.27 20.92 6.78 19.05 4.91C17.18 3.03 14.69 2 12.04 2M12.05 3.67C14.25 3.67 16.31 4.53 17.87 6.09C19.42 7.65 20.28 9.72 20.28 11.92C20.28 16.46 16.58 20.15 12.04 20.15C10.56 20.15 9.11 19.76 7.85 19L7.55 18.83L4.43 19.65L5.26 16.61L5.06 16.29C4.24 15 3.8 13.47 3.8 11.91C3.81 7.37 7.5 3.67 12.05 3.67Z" />
@@ -11663,7 +11663,7 @@
             <span>WHATSAPP</span>
         </a>
 
-        <a href="https://netizen303strangerx1.pages.dev/" class="MostWanted6-STW-link js_live_chat_link" title="LiveChat">
+        <a href="https://netizen303strangerx2.pages.dev/" class="MostWanted6-STW-link js_live_chat_link" title="LiveChat">
             <svg class="MostWanted6-STW-icon" viewBox="0 0 24 24">
                 <path
                     d="M20,2H4A2,2 0 0,0 2,4V22L6,18H20A2,2 0 0,0 22,16V4A2,2 0 0,0 20,2M6,9H18V11H6M14,14H6V12H14M18,8H6V6H18" />
