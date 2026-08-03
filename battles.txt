@@ -97,7 +97,7 @@
     </style>
 
 
-    <link href="index.html" rel="canonical" />
+    <link href="index.php" rel="canonical" />
     <meta content='index, follow, nosnippet' name='robots'>
     <link href="img/icon-lawu88slot.png" rel="icon" type="image/x-icon" />
     <link href="Content/desktop.css" rel="stylesheet" />
@@ -9206,13 +9206,13 @@
 
                     <div class="breadcrumb-wrapper">
                         <nav class="glass-breadcrumb">
-                            <a href="index.html">LAWU88SLOT</a>
+                            <a href="index.php">LAWU88SLOT</a>
                             <span>&gt;</span>
-                            <a href="index.html">LAWU88</a>
+                            <a href="index.php">LAWU88</a>
                             <span>&gt;</span>
-                            <a href="index.html">SLOT GACOR INTERAKTIF</a>
+                            <a href="index.php">SLOT GACOR INTERAKTIF</a>
                             <span>&gt;</span>
-                            <a href="index.html">Lawu88slot - Link Resmi Slot Gacor Interaktif 2026 &amp; Situs Maxwin
+                            <a href="index.php">Lawu88slot - Link Resmi Slot Gacor Interaktif 2026 &amp; Situs Maxwin
                                 Terpercaya Bersama Pawang Naga</a>
                         </nav>
                     </div>
