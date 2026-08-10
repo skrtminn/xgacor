@@ -511,7 +511,7 @@
                                                                         --_6o3atz24: 0;
                                                                     ">
                                 <input autocomplete="off" role="combobox" aria-expanded="false" aria-haspopup="listbox"
-                                  aria-autocomplete="list" required="" placeholder="'Ketik CERIABET'" type="search"
+                                  aria-autocomplete="list" required="" placeholder="'Ketik NETIZEN303'" type="search"
                                   id="textInput-:Rn955afumkq:" aria-labelledby=":R6n955afumkq:"
                                   data-enzyme-id="OutlinedSearchBar"
                                   class="_6o3atzl _1b0g07st _1b0g07sd _1b0g07se _1b0g07sh _1b0g07sj"
@@ -633,7 +633,7 @@
                                                                         --_6o3atz24: 0;
                                                                     ">
                                 <input autocomplete="off" role="combobox" aria-expanded="false" aria-haspopup="listbox"
-                                  aria-autocomplete="list" required="" placeholder="Cari di google CERIABET"
+                                  aria-autocomplete="list" required="" placeholder="Cari di google NETIZEN303"
                                   type="search" id="textInput-:Rbll5afumkq:" aria-labelledby=":R3bll5afumkq:"
                                   data-enzyme-id="OutlinedSearchBar"
                                   class="_6o3atzl _1b0g07st _1b0g07sd _1b0g07se _1b0g07sh _1b0g07sj"
